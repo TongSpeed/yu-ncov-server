@@ -57,7 +57,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
 
     const photon = new PrismaClient();
     const upsertCountryTask = (current: { country: string, continents?: string }) => pipe(
-        () => photon.countries.upsert({
+        () => photon.country.upsert({
             where: { id: current.country },
             create: {
                 id: current.country,
@@ -69,7 +69,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
             }
         })
     )
-    const upsertProvinceTask = (current: ProvinceRecord) => () => photon.provinces.upsert({
+    const upsertProvinceTask = (current: ProvinceRecord) => () => photon.province.upsert({
         where: { id: current.province },
         create: {
             id: current.province,
@@ -82,7 +82,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
     
         }
     })
-    const upsertCityTask = (current: CityRecord) => () => photon.cities.upsert({
+    const upsertCityTask = (current: CityRecord) => () => photon.city.upsert({
         where: { id: current.city },
         create: {
             id: current.city,
@@ -102,7 +102,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
         const recordTask: Task.Task<any> = pipe(
             () => {
 
-                return photon.countryRecords.findMany({
+                return photon.countryRecord.findMany({
                     where: {
                         recordAt: { gte: getTodayBegin(current.recordAt), lte: getTodayEnd(current.recordAt) },
                         country: { id: { equals: current.country } },
@@ -114,7 +114,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                 const id = value.length > 0 ? value[0].id : undefined;
                 if (id) {
 
-                    const update: Task.Task<any> = () => (value[0].recordAt < current.recordAt) ? photon.countryRecords.update({
+                    const update: Task.Task<any> = () => (value[0].recordAt < current.recordAt) ? photon.countryRecord.update({
                         where: { id: id },
                         data: {
                             ...pick(current, ['suspectedCount', 'confirmedCount',
@@ -129,7 +129,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                     }) : Promise.resolve("")
                     return update;
                 } else {
-                    const create = () => photon.countryRecords.create({
+                    const create = () => photon.countryRecord.create({
                         data: {
                             ...pick(current, ['suspectedCount', 'confirmedCount',
                                 'curedCount', 'deadCount', 'seriousCount', 'continents',
@@ -171,7 +171,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
         const city: Task.Task<any> = upsertCityTask(current)
         const virusRecord: Task.Task<any> = pipe(
             () => {
-                return photon.cityRecords.findMany({
+                return photon.cityRecord.findMany({
                     where: {
                         recordAt: { gte: getTodayBegin(current.recordAt), lte: getTodayEnd(current.recordAt) },
                         city: { id: { equals: current.city } },
@@ -185,7 +185,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                 const id = value.length > 0 ? value[0].id : undefined;
                 if (id) {
 
-                    const update: Task.Task<any> = () => value[0].recordAt <= current.recordAt ? photon.cityRecords.update({
+                    const update: Task.Task<any> = () => value[0].recordAt <= current.recordAt ? photon.cityRecord.update({
                         where: { id: id },
                         data: {
                             ...pick(current, ['suspectedCount', 'confirmedCount', 'curedCount', 'deadCount']),
@@ -205,7 +205,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                     return update
 
                 } else {
-                    const create = () => photon.cityRecords.create({
+                    const create = () => photon.cityRecord.create({
                         data: {
                             ...pick(current, ['suspectedCount', 'confirmedCount', 'curedCount', 'deadCount']),
                             recordAt: current.recordAt,
@@ -236,7 +236,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
         const province: Task.Task<any> = upsertProvinceTask(current)
         const virusRecord: Task.Task<any> = pipe(
             () => {
-                return photon.provinceRecords.findMany({
+                return photon.provinceRecord.findMany({
                     where: {
                         recordAt: { gte: getTodayBegin(current.recordAt), lte: getTodayEnd(current.recordAt) },
                         province: { id: { equals: current.province } },
@@ -249,7 +249,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                 const id = value.length > 0 ? value[0].id : undefined;
                 if (id) {
 
-                    const update: Task.Task<any> = () => value[0].recordAt <= current.recordAt ? photon.provinceRecords.update({
+                    const update: Task.Task<any> = () => value[0].recordAt <= current.recordAt ? photon.provinceRecord.update({
                         where: { id: id },
                         data: {
                             ...pick(current, ['suspectedCount', 'confirmedCount', 'curedCount', 'deadCount']),
@@ -267,7 +267,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
 
                 } else {
                     return pipe(
-                        [country, province, () => photon.provinceRecords.create({
+                        [country, province, () => photon.provinceRecord.create({
                             data: {
                                 ...pick(current, ['suspectedCount', 'confirmedCount', 'curedCount', 'deadCount']),
                                 recordAt: current.recordAt,

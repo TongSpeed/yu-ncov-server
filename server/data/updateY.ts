@@ -68,7 +68,7 @@ const photon = new PrismaClient();
 
 const recordToDB = () => {
     return pipe(
-        ()=> photon.countries.findMany(),
+        ()=> photon.country.findMany(),
         Task.map(countries=> pipe(
             countries,
             A.map(a=>{

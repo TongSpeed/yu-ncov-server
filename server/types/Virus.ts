@@ -15,7 +15,7 @@ export const CountryRecord = objectType({
     definition(t) {
         t.model.id()
         t.model.country()
-
+        
         t.model.recordAt()
         t.model.virus()
         t.model.sourceUrl()

@@ -5,6 +5,7 @@ export const Query = queryType({
 
   definition(t) {
     t.crud.countryRecords({filtering:true,ordering:true})
+  
     t.crud.provinceRecords({filtering:true,ordering:true})
     t.crud.cityRecords({filtering:true,ordering:true})
     t.crud.countries()
@@ -20,7 +21,7 @@ export const Query = queryType({
       nullable: true,
       resolve: (parent, args, ctx) => {
         const userId = getUserId(ctx)
-        return ctx.prisma.users.findOne({
+        return ctx.prisma.user.findOne({
           where: {
             id: userId,
           },

@@ -12,7 +12,7 @@ export const Mutation = mutationType({
       },
       resolve: async (_parent, { name, email, password, nickname }, ctx) => {
         const hashedPassword = await hashPassword()(password)()
-        const user = await ctx.prisma.users.create({
+        const user = await ctx.prisma.user.create({
           data: {
             name,
             nickname: nickname!,
@@ -34,7 +34,7 @@ export const Mutation = mutationType({
         password: stringArg({ nullable: false }),
       },
       resolve: async (_parent, { email, password }, ctx) => {
-        const user = await ctx.prisma.users.findOne({
+        const user = await ctx.prisma.user.findOne({
           where: {
             email,
           },

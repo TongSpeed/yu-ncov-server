@@ -9,18 +9,18 @@
     "build": "tsc",
     "generate": "npm -s run generate:prisma && npm -s run generate:nexus",
     "generate:prisma": "prisma2 generate",
-    "generate:nexus": "ts-node --transpile-only src/schema",
+    "generate:nexus": "ts-node --transpile-only server/schema",
     "postinstall": "npm -s run generate",
-    "dxy": "ts-node ./src/data/bin.ts",
-    "update": "ts-node ./src/data/updateY.ts",
+    "dxy": "ts-node ./server/data/bin.ts",
+    "update": "ts-node ./server/data/updateY.ts",
     "now": "now",
     "migrate": "npm -s run migrate:create && npm -s run migrate:save",
     "migrate:create": "prisma2 migrate save --name 'add-comment-model' --experimental",
     "migrate:save": " prisma2 migrate up --experimental",   
-    "dev": "ts-node-dev --no-notify --respawn --transpileOnly src/server"
+    "dev": "ts-node-dev --no-notify --respawn --transpileOnly server/server"
   },
   "dependencies": {
-    "@prisma/client": "2.0.0-preview020",
+    "@prisma/client": "2.0.0-preview021",
     "@types/node-fetch": "2.5.4",
     "apollo-server": "^2.10.0",
     "apollo-server-micro": "^2.10.0",
@@ -32,8 +32,8 @@
     "macoolka-log": "^0.2.0",
     "macoolka-predicate": "^0.2.1",
     "nexus": "0.12.0-rc.9",
-    "nexus-prisma": "0.7.0",
-    "prisma2": "2.0.0-preview020",
+    "nexus-prisma": "0.9.1",
+    "prisma2": "2.0.0-preview021",
     "rxjs": "^6.5.4"
   },
   "devDependencies": {
