@@ -24,7 +24,7 @@ export const CountryRecord = objectType({
         t.model.confirmedCount()
         t.model.deadCount()
         t.model.curedCount()
-
+        t.model.continents()
         t.model.seriousAddCount()
         t.model.suspectedAddCount()
         t.model.confirmedAddCount()

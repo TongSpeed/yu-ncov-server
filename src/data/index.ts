@@ -9,11 +9,13 @@ import { join } from 'path'
 import * as dateFns from 'date-fns';
 import { formatJson } from 'macoolka-prettier'
 import { timer } from 'rxjs';
+
 const timerUpdate=()=>{
 
+     const interval=process.env.TIMER_INTERVAL?Number(process.env.TIMER_INTERVAL):10 * 60 * 1000
     const filename = (a: Date) => `ncov_${dateFns.format(a, 'yyyy_MM_dd')}.json`;
     const logger = createLogger()
-    const numbers = timer(3000, 10 * 60 * 1000);
+    const numbers = timer(3000, interval);
     numbers.subscribe(x => pipe(
         scrapeToRecord,
         Task.chainFirst((a) => async () => {

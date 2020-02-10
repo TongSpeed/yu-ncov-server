@@ -382,6 +382,7 @@ export interface NexusGenFieldTypes {
   CountryRecord: { // field return type
     confirmedAddCount: number | null; // Int
     confirmedCount: number; // Int!
+    continents: string | null; // String
     country: NexusGenRootTypes['Country']; // Country!
     createdAt: any; // DateTime!
     curedAddCount: number | null; // Int

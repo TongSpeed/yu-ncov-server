@@ -1,0 +1,114 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url = "***"
+}
+
+model User {
+  avatar    Boolean  @default(false)
+  createdAt DateTime
+  email     String   @default("") @unique
+  id        String   @id
+  name      String?  @unique
+  nickname  String   @default("") @unique
+  password  String   @default("")
+  role      String   @default("USER")
+  updatedAt DateTime
+}
+
+model Province {
+  id              String           @id
+  title           String           @default("") @unique
+  country         Country
+  cities          City[]
+  provinceRecords ProvinceRecord[] @relation(references: [province])
+  cityRecords     CityRecord[]
+}
+
+model City {
+  id          String       @id
+  title       String       @default("")
+  province    Province
+  areas       Area[]
+  cityRecords CityRecord[] @relation(references: [city])
+}
+
+model Area {
+  id    String @id
+  title String @default("")
+  city  City
+}
+
+model VirusInfo {
+  description     String           @default("")
+  id              String           @id
+  title           String           @default("") @unique
+  countryRecords  CountryRecord[]
+  provinceRecords ProvinceRecord[]
+  cityRecords     CityRecord[]
+}
+
+model Country {
+  continents      String?
+  id              String           @id
+  title           String           @default("") @unique
+  provinces       Province[]       @relation(references: [country])
+  countryRecords  CountryRecord[]  @relation(references: [country])
+  provinceRecords ProvinceRecord[] @relation(references: [country])
+  cityRecords     CityRecord[]
+}
+
+model CountryRecord {
+  confirmedAddCount Int?
+  confirmedCount    Int       @default(0)
+  continents        String?
+  createdAt         DateTime
+  curedAddCount     Int?
+  curedCount        Int       @default(0)
+  deadAddCount      Int?
+  deadCount         Int       @default(0)
+  id                String    @id
+  recordAt          DateTime
+  seriousAddCount   Int?
+  seriousCount      Int?
+  sourceUrl         String    @default("")
+  suspectedAddCount Int?
+  suspectedCount    Int       @default(0)
+  updatedAt         DateTime
+  country           Country
+  virus             VirusInfo
+}
+
+model ProvinceRecord {
+  confirmedCount Int       @default(0)
+  createdAt      DateTime
+  curedCount     Int       @default(0)
+  deadCount      Int       @default(0)
+  id             String    @id
+  recordAt       DateTime
+  sourceUrl      String    @default("")
+  suspectedCount Int       @default(0)
+  updatedAt      DateTime
+  country        Country
+  province       Province
+  virus          VirusInfo
+}
+
+model CityRecord {
+  confirmedCount Int       @default(0)
+  createdAt      DateTime
+  curedCount     Int       @default(0)
+  deadCount      Int       @default(0)
+  id             String    @id
+  recordAt       DateTime
+  sourceUrl      String    @default("")
+  suspectedCount Int       @default(0)
+  updatedAt      DateTime
+  city           City
+  country        Country
+  province       Province
+  virus          VirusInfo
+}
