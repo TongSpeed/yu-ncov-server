@@ -15,7 +15,7 @@ export const Mutation = mutationType({
         const user = await ctx.prisma.users.create({
           data: {
             name,
-            nickname: nickname,
+            nickname: nickname!,
             email,
             password: hashedPassword,
           },

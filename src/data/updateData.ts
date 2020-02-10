@@ -5,6 +5,7 @@ import { pipe } from 'fp-ts/lib/pipeable'
 import { pick } from 'macoolka-object'
 import * as dateFns from 'date-fns';
 import { isString } from 'macoolka-predicate'
+import { async } from 'rxjs/internal/scheduler/async'
 
 const getTodayBegin = (a: Date | string) => {
     const cloneValue = new Date(isString(a) ? a : a.toISOString())
@@ -125,7 +126,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                             sourceUrl,
                             virus: { connect: { id: 'cnov' } }
                         }
-                    }) : void 0
+                    }) : Promise.resolve("")
                     return update;
                 } else {
                     const create = () => photon.countryRecords.create({
@@ -200,7 +201,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                             sourceUrl,
                             virus: { connect: { id: 'cnov' } }
                         }
-                    }) : void 0
+                    }) : Promise.resolve(void 0)
                     return update
 
                 } else {
@@ -261,7 +262,7 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                             sourceUrl,
                             virus: { connect: { id: 'cnov' } }
                         }
-                    }) : void 0
+                    }) : Promise.resolve(('void 0') as any)
                     return update
 
                 } else {
