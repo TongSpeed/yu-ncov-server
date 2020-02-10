@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
+    "outDir": "lib",
     "rootDir": "src",
     "lib": ["esnext", "dom","ES2017","ES2018"],
     "skipLibCheck": true,
