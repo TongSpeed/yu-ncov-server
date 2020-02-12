@@ -5,8 +5,8 @@ import { pipe } from 'fp-ts/lib/pipeable'
 import { pick } from 'macoolka-object'
 import * as dateFns from 'date-fns';
 import { isString } from 'macoolka-predicate'
-import { async } from 'rxjs/internal/scheduler/async'
-
+import { convertTitle } from './dataHelpler'
+import cuid from 'cuid'
 const getTodayBegin = (a: Date | string) => {
     const cloneValue = new Date(isString(a) ? a : a.toISOString())
     const b = new Date(cloneValue.setHours(0, 0, 0, 0))
@@ -23,7 +23,7 @@ export interface BasicRecord {
     confirmedCount: number,
     curedCount: number,
     deadCount: number,
-    recordAt: Date | string
+    recordAt: Date
 }
 export interface CountryRecord extends BasicRecord {
     seriousCount?: number,
@@ -51,18 +51,68 @@ export interface NCOVRecord {
     countries: CountryRecord[],
     provinces: ProvinceRecord[],
     cities: CityRecord[]
+    rumors: Rumor[]
+    newses: News[]
 }
+
+interface Rumor {
+
+    title: string
+    subTitle: string
+    content: string
+    recordAt: Date
+}
+interface News {
+
+    title: string
+    subTitle?: string
+    content: string
+    recordAt: Date
+    infoSource: string
+    province: string
+    sourceUrl: string
+}
+
 
 const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/view/pneumonia') => {
 
     const photon = new PrismaClient();
+
+    const toNews = (a: News) => pipe(
+        () => photon.news.upsert({
+            where: { sourceUrl: a.sourceUrl },
+            create: a,
+            update: {
+
+            }
+        }),
+        Task.map(() => void 0)
+    )
+
+    const toRumor = ({ title, subTitle, content, recordAt }: Rumor) => pipe(
+        () => photon.rumor.upsert({
+            where: { title: title },
+            create: {
+                id: cuid(),
+                title,
+                subTitle,
+                content,
+                recordAt
+            },
+            update: {
+
+            }
+        }),
+        Task.map(() => void 0)
+    )
     const upsertCountryTask = (current: { country: string, continents?: string }) => pipe(
         () => photon.country.upsert({
             where: { id: current.country },
             create: {
                 id: current.country,
                 title: current.country,
-                continents: current.continents
+                continents: current.continents,
+                ...convertTitle({ title: current.country })
             },
             update: {
                 continents: current.continents
@@ -74,12 +124,13 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
         create: {
             id: current.province,
             title: current.province,
+            ...convertTitle({ title: current.country }),
             country: {
-                connect: { id: current.country }
+                connect: { title: current.country }
             }
         },
         update: {
-    
+
         }
     })
     const upsertCityTask = (current: CityRecord) => () => photon.city.upsert({
@@ -87,12 +138,13 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
         create: {
             id: current.city,
             title: current.city,
+            ...convertTitle({ title: current.country }),
             province: {
-                connect: { id: current.province }
+                connect: { title: current.province }
             }
         },
         update: {
-    
+
         }
     })
     const toCountryDB = (current: CountryRecord) => {
@@ -118,8 +170,8 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
                         where: { id: id },
                         data: {
                             ...pick(current, ['suspectedCount', 'confirmedCount',
-                             'curedCount', 'deadCount', 'seriousCount', 'continents',
-                                'suspectedAddCount', 'confirmedAddCount', 'curedAddCount', 
+                                'curedCount', 'deadCount', 'seriousCount', 'continents',
+                                'suspectedAddCount', 'confirmedAddCount', 'curedAddCount',
                                 'deadAddCount', 'seriousAddCount']),
                             recordAt: current.recordAt,
                             country: { connect: { id: current.country } },
@@ -151,16 +203,18 @@ const recordToDB = (data: NCOVRecord, sourceUrl = 'https://ncov.dxy.cn/ncovh5/vi
 
     }
 
-    const toDB = (a: NCOVRecord):Task.Task<void> => {
+    const toDB = (a: NCOVRecord): Task.Task<void> => {
 
         return pipe(
             [
                 ...a.countries.map(toCountryDB),
                 ...a.provinces.map(toProvinceDB),
-                ...a.cities.map(toCityDB)
+                ...a.cities.map(toCityDB),
+                ...a.newses.map(toNews),
+                ...a.rumors.map(toRumor),
             ],
             A.array.sequence(Task.taskSeq),
-            Task.chain(() =>async()=>await photon.disconnect())
+            Task.chain(() => async () => await photon.disconnect())
         )
     }
 

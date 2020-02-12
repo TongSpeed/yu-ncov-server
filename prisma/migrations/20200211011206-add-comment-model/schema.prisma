@@ -1,6 +1,6 @@
 datasource db {
   provider = "sqlite"
-  url      = "file:new.db"
+  url = "***"
   default  = true
 }
 
@@ -67,30 +67,6 @@ model VirusInfo {
   description String
 }
 
-model Rumor {
-  id        String   @default(cuid()) @id
-  title     String   @unique
-  subTitle  String
-  content   String
-  recordAt  DateTime
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-}
-
-model News {
-  id        String   @default(cuid()) @id
-  title     String  
-  subTitle  String?
-  content   String
-  recordAt  DateTime
-  infoSource String
-  createdAt DateTime @default(now())
-  sourceUrl String  @unique
-  updatedAt DateTime @updatedAt
-  province String
-}
- 
- 
 model CountryRecord {
   id                String    @default(cuid()) @id
   country           Country
@@ -145,4 +121,6 @@ model CityRecord {
   recordAt       DateTime
   createdAt      DateTime  @default(now())
   updatedAt      DateTime  @updatedAt
+
+
 }

@@ -8,6 +8,9 @@ export const Query = queryType({
   
     t.crud.provinceRecords({filtering:true,ordering:true})
     t.crud.cityRecords({filtering:true,ordering:true})
+    t.crud.rumors({filtering:true,ordering:true})
+    t.crud.news({filtering:true,ordering:true})
+   // t.crud.news({filtering:true,ordering:true})
     t.crud.countries()
     t.crud.provinces({filtering:true,ordering:true})
     t.crud.cities({filtering:true,ordering:true})

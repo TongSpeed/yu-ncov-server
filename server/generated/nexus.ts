@@ -26,15 +26,19 @@ export interface NexusGenInputs {
     some?: NexusGenInputs['AreaWhereInput'] | null; // AreaWhereInput
   }
   AreaOrderByInput: { // input type
+    cuid?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
     id?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    tags?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
     title?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
   }
   AreaWhereInput: { // input type
     AND?: NexusGenInputs['AreaWhereInput'][] | null; // [AreaWhereInput!]
     city?: NexusGenInputs['CityWhereInput'] | null; // CityWhereInput
+    cuid?: NexusGenInputs['StringFilter'] | null; // StringFilter
     id?: NexusGenInputs['StringFilter'] | null; // StringFilter
     NOT?: NexusGenInputs['AreaWhereInput'][] | null; // [AreaWhereInput!]
     OR?: NexusGenInputs['AreaWhereInput'][] | null; // [AreaWhereInput!]
+    tags?: NexusGenInputs['StringFilter'] | null; // StringFilter
     title?: NexusGenInputs['StringFilter'] | null; // StringFilter
   }
   CityFilter: { // input type
@@ -43,7 +47,9 @@ export interface NexusGenInputs {
     some?: NexusGenInputs['CityWhereInput'] | null; // CityWhereInput
   }
   CityOrderByInput: { // input type
+    cuid?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
     id?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    tags?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
     title?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
   }
   CityRecordFilter: { // input type
@@ -84,10 +90,12 @@ export interface NexusGenInputs {
     AND?: NexusGenInputs['CityWhereInput'][] | null; // [CityWhereInput!]
     areas?: NexusGenInputs['AreaFilter'] | null; // AreaFilter
     cityRecords?: NexusGenInputs['CityRecordFilter'] | null; // CityRecordFilter
+    cuid?: NexusGenInputs['StringFilter'] | null; // StringFilter
     id?: NexusGenInputs['StringFilter'] | null; // StringFilter
     NOT?: NexusGenInputs['CityWhereInput'][] | null; // [CityWhereInput!]
     OR?: NexusGenInputs['CityWhereInput'][] | null; // [CityWhereInput!]
     province?: NexusGenInputs['ProvinceWhereInput'] | null; // ProvinceWhereInput
+    tags?: NexusGenInputs['StringFilter'] | null; // StringFilter
     title?: NexusGenInputs['StringFilter'] | null; // StringFilter
   }
   CityWhereUniqueInput: { // input type
@@ -144,11 +152,13 @@ export interface NexusGenInputs {
     cityRecords?: NexusGenInputs['CityRecordFilter'] | null; // CityRecordFilter
     continents?: NexusGenInputs['NullableStringFilter'] | null; // NullableStringFilter
     countryRecords?: NexusGenInputs['CountryRecordFilter'] | null; // CountryRecordFilter
+    cuid?: NexusGenInputs['StringFilter'] | null; // StringFilter
     id?: NexusGenInputs['StringFilter'] | null; // StringFilter
     NOT?: NexusGenInputs['CountryWhereInput'][] | null; // [CountryWhereInput!]
     OR?: NexusGenInputs['CountryWhereInput'][] | null; // [CountryWhereInput!]
     provinceRecords?: NexusGenInputs['ProvinceRecordFilter'] | null; // ProvinceRecordFilter
     provinces?: NexusGenInputs['ProvinceFilter'] | null; // ProvinceFilter
+    tags?: NexusGenInputs['StringFilter'] | null; // StringFilter
     title?: NexusGenInputs['StringFilter'] | null; // StringFilter
   }
   CountryWhereUniqueInput: { // input type
@@ -174,6 +184,33 @@ export interface NexusGenInputs {
     lte?: number | null; // Int
     not?: number | null; // Int
     notIn?: number[] | null; // [Int!]
+  }
+  NewsOrderByInput: { // input type
+    content?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    createdAt?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    id?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    infoSource?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    province?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    recordAt?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    sourceUrl?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    subTitle?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    title?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    updatedAt?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+  }
+  NewsWhereInput: { // input type
+    AND?: NexusGenInputs['NewsWhereInput'][] | null; // [NewsWhereInput!]
+    content?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    createdAt?: NexusGenInputs['DateTimeFilter'] | null; // DateTimeFilter
+    id?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    infoSource?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    NOT?: NexusGenInputs['NewsWhereInput'][] | null; // [NewsWhereInput!]
+    OR?: NexusGenInputs['NewsWhereInput'][] | null; // [NewsWhereInput!]
+    province?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    recordAt?: NexusGenInputs['DateTimeFilter'] | null; // DateTimeFilter
+    sourceUrl?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    subTitle?: NexusGenInputs['NullableStringFilter'] | null; // NullableStringFilter
+    title?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    updatedAt?: NexusGenInputs['DateTimeFilter'] | null; // DateTimeFilter
   }
   NullableIntFilter: { // input type
     equals?: number | null; // Int
@@ -204,7 +241,9 @@ export interface NexusGenInputs {
     some?: NexusGenInputs['ProvinceWhereInput'] | null; // ProvinceWhereInput
   }
   ProvinceOrderByInput: { // input type
+    cuid?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
     id?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    tags?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
     title?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
   }
   ProvinceRecordFilter: { // input type
@@ -245,11 +284,34 @@ export interface NexusGenInputs {
     cities?: NexusGenInputs['CityFilter'] | null; // CityFilter
     cityRecords?: NexusGenInputs['CityRecordFilter'] | null; // CityRecordFilter
     country?: NexusGenInputs['CountryWhereInput'] | null; // CountryWhereInput
+    cuid?: NexusGenInputs['StringFilter'] | null; // StringFilter
     id?: NexusGenInputs['StringFilter'] | null; // StringFilter
     NOT?: NexusGenInputs['ProvinceWhereInput'][] | null; // [ProvinceWhereInput!]
     OR?: NexusGenInputs['ProvinceWhereInput'][] | null; // [ProvinceWhereInput!]
     provinceRecords?: NexusGenInputs['ProvinceRecordFilter'] | null; // ProvinceRecordFilter
+    tags?: NexusGenInputs['StringFilter'] | null; // StringFilter
     title?: NexusGenInputs['StringFilter'] | null; // StringFilter
+  }
+  RumorOrderByInput: { // input type
+    content?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    createdAt?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    id?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    recordAt?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    subTitle?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    title?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+    updatedAt?: NexusGenEnums['OrderByArg'] | null; // OrderByArg
+  }
+  RumorWhereInput: { // input type
+    AND?: NexusGenInputs['RumorWhereInput'][] | null; // [RumorWhereInput!]
+    content?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    createdAt?: NexusGenInputs['DateTimeFilter'] | null; // DateTimeFilter
+    id?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    NOT?: NexusGenInputs['RumorWhereInput'][] | null; // [RumorWhereInput!]
+    OR?: NexusGenInputs['RumorWhereInput'][] | null; // [RumorWhereInput!]
+    recordAt?: NexusGenInputs['DateTimeFilter'] | null; // DateTimeFilter
+    subTitle?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    title?: NexusGenInputs['StringFilter'] | null; // StringFilter
+    updatedAt?: NexusGenInputs['DateTimeFilter'] | null; // DateTimeFilter
   }
   StringFilter: { // input type
     contains?: string | null; // String
@@ -297,9 +359,11 @@ export interface NexusGenRootTypes {
   Country: client.Country;
   CountryRecord: client.CountryRecord;
   Mutation: {};
+  News: client.News;
   Province: client.Province;
   ProvinceRecord: client.ProvinceRecord;
   Query: {};
+  Rumor: client.Rumor;
   User: client.User;
   VirusInfo: client.VirusInfo;
   String: string;
@@ -328,6 +392,8 @@ export interface NexusGenAllTypes extends NexusGenRootTypes {
   CountryWhereUniqueInput: NexusGenInputs['CountryWhereUniqueInput'];
   DateTimeFilter: NexusGenInputs['DateTimeFilter'];
   IntFilter: NexusGenInputs['IntFilter'];
+  NewsOrderByInput: NexusGenInputs['NewsOrderByInput'];
+  NewsWhereInput: NexusGenInputs['NewsWhereInput'];
   NullableIntFilter: NexusGenInputs['NullableIntFilter'];
   NullableStringFilter: NexusGenInputs['NullableStringFilter'];
   ProvinceFilter: NexusGenInputs['ProvinceFilter'];
@@ -336,6 +402,8 @@ export interface NexusGenAllTypes extends NexusGenRootTypes {
   ProvinceRecordOrderByInput: NexusGenInputs['ProvinceRecordOrderByInput'];
   ProvinceRecordWhereInput: NexusGenInputs['ProvinceRecordWhereInput'];
   ProvinceWhereInput: NexusGenInputs['ProvinceWhereInput'];
+  RumorOrderByInput: NexusGenInputs['RumorOrderByInput'];
+  RumorWhereInput: NexusGenInputs['RumorWhereInput'];
   StringFilter: NexusGenInputs['StringFilter'];
   VirusInfoWhereInput: NexusGenInputs['VirusInfoWhereInput'];
   VirusInfoWhereUniqueInput: NexusGenInputs['VirusInfoWhereUniqueInput'];
@@ -346,7 +414,9 @@ export interface NexusGenAllTypes extends NexusGenRootTypes {
 export interface NexusGenFieldTypes {
   Area: { // field return type
     city: NexusGenRootTypes['City']; // City!
+    cuid: string; // String!
     id: string; // String!
+    tags: string; // String!
     title: string; // String!
   }
   AuthPayload: { // field return type
@@ -355,8 +425,10 @@ export interface NexusGenFieldTypes {
   }
   City: { // field return type
     areas: NexusGenRootTypes['Area'][]; // [Area!]!
+    cuid: string; // String!
     id: string; // String!
     province: NexusGenRootTypes['Province']; // Province!
+    tags: string; // String!
     title: string; // String!
   }
   CityRecord: { // field return type
@@ -375,8 +447,11 @@ export interface NexusGenFieldTypes {
     virus: NexusGenRootTypes['VirusInfo']; // VirusInfo!
   }
   Country: { // field return type
+    continents: string | null; // String
+    cuid: string; // String!
     id: string; // String!
     provinces: NexusGenRootTypes['Province'][]; // [Province!]!
+    tags: string; // String!
     title: string; // String!
   }
   CountryRecord: { // field return type
@@ -403,10 +478,22 @@ export interface NexusGenFieldTypes {
     login: NexusGenRootTypes['AuthPayload']; // AuthPayload!
     signup: NexusGenRootTypes['AuthPayload']; // AuthPayload!
   }
+  News: { // field return type
+    content: string; // String!
+    id: string; // String!
+    infoSource: string; // String!
+    province: string; // String!
+    recordAt: any; // DateTime!
+    sourceUrl: string; // String!
+    subTitle: string | null; // String
+    title: string; // String!
+  }
   Province: { // field return type
     cities: NexusGenRootTypes['City'][]; // [City!]!
     country: NexusGenRootTypes['Country']; // Country!
+    cuid: string; // String!
     id: string; // String!
+    tags: string; // String!
     title: string; // String!
   }
   ProvinceRecord: { // field return type
@@ -432,9 +519,18 @@ export interface NexusGenFieldTypes {
     country: NexusGenRootTypes['Country'] | null; // Country
     countryRecords: NexusGenRootTypes['CountryRecord'][]; // [CountryRecord!]!
     me: NexusGenRootTypes['User'] | null; // User
+    news: NexusGenRootTypes['News'][]; // [News!]!
     provinceRecords: NexusGenRootTypes['ProvinceRecord'][]; // [ProvinceRecord!]!
     provinces: NexusGenRootTypes['Province'][]; // [Province!]!
+    rumors: NexusGenRootTypes['Rumor'][]; // [Rumor!]!
     virusInfo: NexusGenRootTypes['VirusInfo'] | null; // VirusInfo
+  }
+  Rumor: { // field return type
+    content: string; // String!
+    id: string; // String!
+    recordAt: any; // DateTime!
+    subTitle: string; // String!
+    title: string; // String!
   }
   User: { // field return type
     avatar: boolean; // Boolean!
@@ -543,6 +639,15 @@ export interface NexusGenArgTypes {
       skip?: number | null; // Int
       where?: NexusGenInputs['CountryRecordWhereInput'] | null; // CountryRecordWhereInput
     }
+    news: { // args
+      after?: string | null; // String
+      before?: string | null; // String
+      first?: number | null; // Int
+      last?: number | null; // Int
+      orderBy?: NexusGenInputs['NewsOrderByInput'] | null; // NewsOrderByInput
+      skip?: number | null; // Int
+      where?: NexusGenInputs['NewsWhereInput'] | null; // NewsWhereInput
+    }
     provinceRecords: { // args
       after?: string | null; // String
       before?: string | null; // String
@@ -561,6 +666,15 @@ export interface NexusGenArgTypes {
       skip?: number | null; // Int
       where?: NexusGenInputs['ProvinceWhereInput'] | null; // ProvinceWhereInput
     }
+    rumors: { // args
+      after?: string | null; // String
+      before?: string | null; // String
+      first?: number | null; // Int
+      last?: number | null; // Int
+      orderBy?: NexusGenInputs['RumorOrderByInput'] | null; // RumorOrderByInput
+      skip?: number | null; // Int
+      where?: NexusGenInputs['RumorWhereInput'] | null; // RumorWhereInput
+    }
     virusInfo: { // args
       where: NexusGenInputs['VirusInfoWhereUniqueInput']; // VirusInfoWhereUniqueInput!
     }
@@ -572,9 +686,9 @@ export interface NexusGenAbstractResolveReturnTypes {
 
 export interface NexusGenInheritedFields {}
 
-export type NexusGenObjectNames = "Area" | "AuthPayload" | "City" | "CityRecord" | "Country" | "CountryRecord" | "Mutation" | "Province" | "ProvinceRecord" | "Query" | "User" | "VirusInfo";
+export type NexusGenObjectNames = "Area" | "AuthPayload" | "City" | "CityRecord" | "Country" | "CountryRecord" | "Mutation" | "News" | "Province" | "ProvinceRecord" | "Query" | "Rumor" | "User" | "VirusInfo";
 
-export type NexusGenInputNames = "AreaFilter" | "AreaOrderByInput" | "AreaWhereInput" | "CityFilter" | "CityOrderByInput" | "CityRecordFilter" | "CityRecordOrderByInput" | "CityRecordWhereInput" | "CityWhereInput" | "CityWhereUniqueInput" | "CountryRecordFilter" | "CountryRecordOrderByInput" | "CountryRecordWhereInput" | "CountryWhereInput" | "CountryWhereUniqueInput" | "DateTimeFilter" | "IntFilter" | "NullableIntFilter" | "NullableStringFilter" | "ProvinceFilter" | "ProvinceOrderByInput" | "ProvinceRecordFilter" | "ProvinceRecordOrderByInput" | "ProvinceRecordWhereInput" | "ProvinceWhereInput" | "StringFilter" | "VirusInfoWhereInput" | "VirusInfoWhereUniqueInput";
+export type NexusGenInputNames = "AreaFilter" | "AreaOrderByInput" | "AreaWhereInput" | "CityFilter" | "CityOrderByInput" | "CityRecordFilter" | "CityRecordOrderByInput" | "CityRecordWhereInput" | "CityWhereInput" | "CityWhereUniqueInput" | "CountryRecordFilter" | "CountryRecordOrderByInput" | "CountryRecordWhereInput" | "CountryWhereInput" | "CountryWhereUniqueInput" | "DateTimeFilter" | "IntFilter" | "NewsOrderByInput" | "NewsWhereInput" | "NullableIntFilter" | "NullableStringFilter" | "ProvinceFilter" | "ProvinceOrderByInput" | "ProvinceRecordFilter" | "ProvinceRecordOrderByInput" | "ProvinceRecordWhereInput" | "ProvinceWhereInput" | "RumorOrderByInput" | "RumorWhereInput" | "StringFilter" | "VirusInfoWhereInput" | "VirusInfoWhereUniqueInput";
 
 export type NexusGenEnumNames = "OrderByArg" | "Role";
 

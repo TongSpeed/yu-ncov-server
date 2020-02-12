@@ -31,6 +31,7 @@ model Country {
   title    String     @unique
   continents String?
   provinces Province[]
+  cuid String @default(cuid()) 
 }
 
 model Province {
@@ -38,6 +39,7 @@ model Province {
   title   String  @unique
   country Country
   cities  City[]
+  cuid String @default(cuid()) 
 }
 
 model City {
@@ -45,12 +47,14 @@ model City {
   title    String   
   province Province
   areas  Area[]
+  cuid String @default(cuid()) 
 }
 
 model Area {
   id    String @default(cuid()) @id
   title String 
   city  City
+  cuid String @default(cuid()) 
 }
 
 model VirusInfo {

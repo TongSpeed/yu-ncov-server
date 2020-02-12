@@ -9,7 +9,31 @@ export const VirusInfo = objectType({
 
     },
 })
+export const Rumor = objectType({
+    name: 'Rumor',
+    definition(t) {
+        t.model.id()
+        t.model.title()
+        t.model.subTitle()
+        t.model.recordAt()
+        t.model.content()
 
+    },
+})
+export const News = objectType({
+    name: 'News',
+    definition(t) {
+        t.model.id()
+        t.model.title()
+        t.model.subTitle()
+        t.model.recordAt()
+        t.model.content()
+        t.model.sourceUrl()
+        t.model.infoSource()
+        t.model.province()
+  
+    },
+})
 export const CountryRecord = objectType({
     name: 'CountryRecord',
     definition(t) {

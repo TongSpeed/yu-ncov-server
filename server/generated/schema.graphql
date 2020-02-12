@@ -4,7 +4,9 @@
 
 type Area {
   city: City!
+  cuid: String!
   id: String!
+  tags: String!
   title: String!
 }
 
@@ -15,16 +17,20 @@ input AreaFilter {
 }
 
 input AreaOrderByInput {
+  cuid: OrderByArg
   id: OrderByArg
+  tags: OrderByArg
   title: OrderByArg
 }
 
 input AreaWhereInput {
   AND: [AreaWhereInput!]
   city: CityWhereInput
+  cuid: StringFilter
   id: StringFilter
   NOT: [AreaWhereInput!]
   OR: [AreaWhereInput!]
+  tags: StringFilter
   title: StringFilter
 }
 
@@ -35,8 +41,10 @@ type AuthPayload {
 
 type City {
   areas(after: String, before: String, first: Int, last: Int, skip: Int): [Area!]!
+  cuid: String!
   id: String!
   province: Province!
+  tags: String!
   title: String!
 }
 
@@ -47,7 +55,9 @@ input CityFilter {
 }
 
 input CityOrderByInput {
+  cuid: OrderByArg
   id: OrderByArg
+  tags: OrderByArg
   title: OrderByArg
 }
 
@@ -108,10 +118,12 @@ input CityWhereInput {
   AND: [CityWhereInput!]
   areas: AreaFilter
   cityRecords: CityRecordFilter
+  cuid: StringFilter
   id: StringFilter
   NOT: [CityWhereInput!]
   OR: [CityWhereInput!]
   province: ProvinceWhereInput
+  tags: StringFilter
   title: StringFilter
 }
 
@@ -120,8 +132,11 @@ input CityWhereUniqueInput {
 }
 
 type Country {
+  continents: String
+  cuid: String!
   id: String!
   provinces(after: String, before: String, first: Int, last: Int, skip: Int): [Province!]!
+  tags: String!
   title: String!
 }
 
@@ -200,11 +215,13 @@ input CountryWhereInput {
   cityRecords: CityRecordFilter
   continents: NullableStringFilter
   countryRecords: CountryRecordFilter
+  cuid: StringFilter
   id: StringFilter
   NOT: [CountryWhereInput!]
   OR: [CountryWhereInput!]
   provinceRecords: ProvinceRecordFilter
   provinces: ProvinceFilter
+  tags: StringFilter
   title: StringFilter
 }
 
@@ -242,6 +259,46 @@ type Mutation {
   signup(email: String!, name: String, nickname: String, password: String!): AuthPayload!
 }
 
+type News {
+  content: String!
+  id: String!
+  infoSource: String!
+  province: String!
+  recordAt: DateTime!
+  sourceUrl: String!
+  subTitle: String
+  title: String!
+}
+
+input NewsOrderByInput {
+  content: OrderByArg
+  createdAt: OrderByArg
+  id: OrderByArg
+  infoSource: OrderByArg
+  province: OrderByArg
+  recordAt: OrderByArg
+  sourceUrl: OrderByArg
+  subTitle: OrderByArg
+  title: OrderByArg
+  updatedAt: OrderByArg
+}
+
+input NewsWhereInput {
+  AND: [NewsWhereInput!]
+  content: StringFilter
+  createdAt: DateTimeFilter
+  id: StringFilter
+  infoSource: StringFilter
+  NOT: [NewsWhereInput!]
+  OR: [NewsWhereInput!]
+  province: StringFilter
+  recordAt: DateTimeFilter
+  sourceUrl: StringFilter
+  subTitle: NullableStringFilter
+  title: StringFilter
+  updatedAt: DateTimeFilter
+}
+
 input NullableIntFilter {
   equals: Int
   gt: Int
@@ -275,7 +332,9 @@ enum OrderByArg {
 type Province {
   cities(after: String, before: String, first: Int, last: Int, skip: Int): [City!]!
   country: Country!
+  cuid: String!
   id: String!
+  tags: String!
   title: String!
 }
 
@@ -286,7 +345,9 @@ input ProvinceFilter {
 }
 
 input ProvinceOrderByInput {
+  cuid: OrderByArg
   id: OrderByArg
+  tags: OrderByArg
   title: OrderByArg
 }
 
@@ -346,10 +407,12 @@ input ProvinceWhereInput {
   cities: CityFilter
   cityRecords: CityRecordFilter
   country: CountryWhereInput
+  cuid: StringFilter
   id: StringFilter
   NOT: [ProvinceWhereInput!]
   OR: [ProvinceWhereInput!]
   provinceRecords: ProvinceRecordFilter
+  tags: StringFilter
   title: StringFilter
 }
 
@@ -362,8 +425,10 @@ type Query {
   country(where: CountryWhereUniqueInput!): Country
   countryRecords(after: String, before: String, first: Int, last: Int, orderBy: CountryRecordOrderByInput, skip: Int, where: CountryRecordWhereInput): [CountryRecord!]!
   me: User
+  news(after: String, before: String, first: Int, last: Int, orderBy: NewsOrderByInput, skip: Int, where: NewsWhereInput): [News!]!
   provinceRecords(after: String, before: String, first: Int, last: Int, orderBy: ProvinceRecordOrderByInput, skip: Int, where: ProvinceRecordWhereInput): [ProvinceRecord!]!
   provinces(after: String, before: String, first: Int, last: Int, orderBy: ProvinceOrderByInput, skip: Int, where: ProvinceWhereInput): [Province!]!
+  rumors(after: String, before: String, first: Int, last: Int, orderBy: RumorOrderByInput, skip: Int, where: RumorWhereInput): [Rumor!]!
   virusInfo(where: VirusInfoWhereUniqueInput!): VirusInfo
 }
 
@@ -371,6 +436,37 @@ enum Role {
   ADMIN
   USER
   VERIFIED
+}
+
+type Rumor {
+  content: String!
+  id: String!
+  recordAt: DateTime!
+  subTitle: String!
+  title: String!
+}
+
+input RumorOrderByInput {
+  content: OrderByArg
+  createdAt: OrderByArg
+  id: OrderByArg
+  recordAt: OrderByArg
+  subTitle: OrderByArg
+  title: OrderByArg
+  updatedAt: OrderByArg
+}
+
+input RumorWhereInput {
+  AND: [RumorWhereInput!]
+  content: StringFilter
+  createdAt: DateTimeFilter
+  id: StringFilter
+  NOT: [RumorWhereInput!]
+  OR: [RumorWhereInput!]
+  recordAt: DateTimeFilter
+  subTitle: StringFilter
+  title: StringFilter
+  updatedAt: DateTimeFilter
 }
 
 input StringFilter {

@@ -12,11 +12,12 @@
     "generate:nexus": "ts-node --transpile-only server/schema",
     "postinstall": "npm -s run generate",
     "dxy": "ts-node ./server/data/bin.ts",
-    "update": "ts-node ./server/data/updateY.ts",
+    "update": "ts-node ./server/data/updateAll.ts",
+    "i": "ts-node ./server/data/importRumors.ts",
     "now": "now",
     "migrate": "npm -s run migrate:create && npm -s run migrate:save",
     "migrate:create": "prisma2 migrate save --name 'add-comment-model' --experimental",
-    "migrate:save": " prisma2 migrate up --experimental",   
+    "migrate:save": " prisma2 migrate up --experimental",
     "dev": "ts-node-dev --no-notify --respawn --transpileOnly server/server"
   },
   "dependencies": {
@@ -25,6 +26,8 @@
     "apollo-server": "^2.10.0",
     "apollo-server-micro": "^2.10.0",
     "bcryptjs": "2.4.3",
+    "csv-parse": "^4.8.5",
+    "cuid": "^2.1.8",
     "date-fns": "^2.9.0",
     "fp-ts": "^2.4.2",
     "graphql": "14.6.0",
@@ -33,6 +36,8 @@
     "macoolka-predicate": "^0.2.1",
     "nexus": "0.12.0-rc.9",
     "nexus-prisma": "0.9.1",
+    "nodemon": "^2.0.2",
+    "pinyin": "^2.9.0",
     "prisma2": "2.0.0-preview021",
     "rxjs": "^6.5.4"
   },
@@ -45,7 +50,7 @@
     "ts-node": "8.5.4",
     "ts-node-dev": "1.0.0-pre.44",
     "typescript": "3.7.5",
-    "yu-ncov-scrape-dxy": "^0.2.3"
+    "yu-ncov-scrape-dxy": "^0.2.4"
   },
   "prettier": {
     "singleQuote": true,
