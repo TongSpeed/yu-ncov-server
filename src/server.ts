@@ -2,7 +2,11 @@
 import { schema } from './schema'
 import { createContext } from './context'
 
-new ApolloServer({ schema, context: createContext }).listen(
+new ApolloServer({
+   schema,
+   context: createContext ,
+  introspection: true, // enables introspection of the schema
+  playground: true, }).listen(
   { port:process.env.server_port|| 4000 },
   () =>
     console.log(
