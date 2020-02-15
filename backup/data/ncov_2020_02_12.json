@@ -1,159 +1,159 @@
 {
   "newses": [
     {
-      "title": "湖北新增病例2连降",
-      "content": "据湖北省卫健委数据统计，2月9日—2月11日，湖北省新增新冠肺炎病例连续下降2天，2月9日为2618例，2月10日为2097例，2月11日为1638例。",
-      "recordAt": "2020-02-12T02:50:00.000Z",
+      "title": "西藏唯一新冠肺炎患者治愈出院",
+      "content": "西藏唯一新冠肺炎患者治愈出院，实现确诊病例和疑似病例清零。2月12日下午，自治区卫生健康委党组书记王云亭在自治区第三人民医院现场接受央视网、新华网、人民日报、西藏卫视等媒体采访。王云亭书记表示，西藏唯一新冠肺炎患者治愈出院，标志着在全国31个省（自治区、直辖市）中，我区首先实现确诊病例和疑似病例清零。\n            \n        \n    ",
+      "recordAt": "2020-02-12T11:29:32.000Z",
+      "infoSource": "西藏卫健委",
+      "province": "西藏自治区",
+      "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202002/t20200212_132187.html"
+    },
+    {
+      "title": "青海四名患者出院",
+      "content": "人民日报记者姜峰从青海省卫健委获悉，2月12日下午，四例新冠肺炎患者从青海省第四人民医院治愈出院，其中包括全省首例确诊患者。至此，青海省确诊的18例患者中已有9例出院，治愈率达50%。",
+      "recordAt": "2020-02-12T10:41:33.000Z",
       "infoSource": "人民日报",
-      "province": "湖北省",
-      "sourceUrl": "http://m.weibo.cn/2803301701/4471095925393575"
+      "province": "青海省",
+      "sourceUrl": "http://m.weibo.cn/2803301701/4471214594432686"
     },
     {
-      "title": "北京新增10例，累计352例",
-      "content": "2月11日0时至24时，本市新增10例新冠肺炎确诊病例，截至2月11日24时,本市累计确诊病例352例。其中出院56例，死亡3例，293例在定点医院进行隔离治疗。",
-      "recordAt": "2020-02-12T02:31:16.000Z",
-      "infoSource": "北京卫健委",
-      "province": "北京市",
-      "sourceUrl": ""
+      "title": "云南省新增确诊病例为零",
+      "content": "2月12日0时至12时，云南省报告新型冠状病毒肺炎新增确诊病例为零。全省累计报告确诊病例154例，除治愈出院者外，现均在定点医院接受隔离治疗。现有危重2例，重症15例，治愈出院23例，疑似病例69例，密切接触者医学观察2839人，无死亡病例。",
+      "recordAt": "2020-02-12T09:01:42.000Z",
+      "infoSource": "云南卫健委",
+      "province": "云南省",
+      "sourceUrl": "http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158149724685341457"
     },
     {
-      "title": "湖北以外地区新增确诊病例八连降",
-      "content": "据国家卫健委数据统计，2月11日0-24时，全国湖北以外地区新增确诊病例377例，连续第8日呈下降态势。而过去8日这一数据分别为：890例(3日)、731例(4日)、707例(5日)、696例(6日)，558例（7日），509（8日），444例（9日），381例（10日）。 \n",
-      "recordAt": "2020-02-12T02:24:21.000Z",
-      "infoSource": "人民网",
-      "province": "全国",
-      "sourceUrl": "http://m.weibo.cn/2286908003/4471089470309615"
+      "title": "重庆市新增确诊4例，累计确诊509例；新增治愈8例，累计治愈87例。",
+      "content": "2020年2月12日0—12时，重庆市报告新冠肺炎新增确诊病例4例，新增出院病例8例。新增确诊病例中，万州区1例、南岸区1例、綦江区2例；新增出院病例中，万州区1例、开州区1例、梁平区1例、忠县1例、云阳县1例、巫溪县2例、两江新区1例。截至2月12日12时，重庆市累计报告新冠肺炎确诊病例509例；现有重型病例29例，危重型病例24例，死亡病例3例，出院病例87例。累计追踪到密切接触者18092人，已解除医学观察11349人，尚有6743人正在接受医学观察。具体情况如下：\n            \n        ",
+      "recordAt": "2020-02-12T08:46:52.000Z",
+      "infoSource": "重庆卫健委",
+      "province": "重庆市",
+      "sourceUrl": "http://wsjkw.cq.gov.cn/yqxxyqtb/20200212/253777.html"
     },
     {
-      "title": "全国新增2015例新冠肺炎，累计44653例",
-      "content": "2月11日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告，新增确诊病例2015例（湖北1638例），解除医学观察的密切接触者30068人。截至2月11日24时，据31个省（自治区、直辖市）和新疆生产建设兵团报告，现有确诊病例38800例（其中重症病例8204例），累计治愈出院病例4740例，累计死亡病例1113例，累计报告确诊病例44653例，现有疑似病例16067例。\n",
-      "recordAt": "2020-02-12T02:06:21.000Z",
-      "infoSource": "央视新闻",
-      "province": "全国",
-      "sourceUrl": "http://m.weibo.cn/2656274875/4471084944727955"
-    },
-    {
-      "title": "宁夏新增确诊病例5例，累计报告确诊病例58例",
-      "content": "2020年2月11日0-24时，全区报告新增确诊病例5例，新增出院病例8例，截至2月11日24时，全区累计报告确诊病例58例，累计解除隔离医学观察1517人，尚集中隔离医学观察1432人。",
-      "recordAt": "2020-02-12T01:52:54.000Z",
-      "infoSource": "宁夏卫健委",
-      "province": "宁夏回族自治区",
-      "sourceUrl": ""
+      "title": "天津市新增确诊3例，累计确诊110例",
+      "content": "2月12日6时至15时，天津市新增新冠肺炎确诊病例3例，累计确诊病例110例。目前已对判定的密切接触者进行隔离医学观察，其他密切接触者排查和流行病学调查工作正在进行中。\n",
+      "recordAt": "2020-02-12T08:41:44.000Z",
+      "infoSource": "天津卫健委",
+      "province": "天津市",
+      "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/2/12/art_87_70801.html"
     }
   ],
   "rumors": [
     {
+      "title": "把某些药物敷在脚底可以防病毒？",
+      "subTitle": "丁香医生团队辟谣：到目前为止，还没有专门用于预防和治疗新冠病毒的药物",
+      "content": "有传闻某药方打粉和蛋清调匀，敷于双脚底涌泉穴。平躺 16 小时，期间不能坐，不能站。口含咬破大蒜一天一夜。可以考虑戴成人尿不湿。晚上开始敷，16 小时内可以不用吃饭。可抑制病毒 / 治疗肺炎。丁香医生再次强调，到目前为止，还没有专门用于预防和治疗新冠病毒的药物。别浪费钱折腾了，少出门，勤洗手，做好家居外出防护，才是最好的方法。",
+      "recordAt": "2020-02-12T16:17:05.864Z"
+    },
+    {
+      "title": "候鸟迁徙会携带传播新冠病毒？",
+      "subTitle": "剑桥大学病毒学助理研究员韩越：相比哺乳动物，鱼类、鸟类和爬行类成为新冠肺炎中间宿主的可能性非常小",
+      "content": "相比于哺乳动物，鱼类、鸟类和爬行类成为新冠肺炎中间宿主的可能性非常小。新冠病毒主要利用细胞表面受体 ACE2 感染哺乳动物，鸟类目前没有被检测出具备大量 ACE2 受体，被病毒侵染概率很低。",
+      "recordAt": "2020-02-12T16:17:05.864Z"
+    },
+    {
+      "title": "新冠病毒的疫苗研制要 18 个月？",
+      "subTitle": "世卫组织总干事谭德塞博士：开发疫苗和疗法需要时间",
+      "content": "世卫组织总干事谭德塞博士表示：「开发疫苗和疗法需要时间，与此同时，我们也不是束手无策。我们现在可以采用许多基本公共卫生干预措施预防感染。第一支疫苗可能在 18 个月后才能投入使用。所以，在筹划长远安排的同时，我们今天必须全力使用现有各种武器对付这一病毒。」",
+      "recordAt": "2020-02-12T16:17:05.864Z"
+    },
+    {
       "title": "深呼吸再憋十秒可测是否有肺炎？",
       "subTitle": "丁香医生团队辟谣：真没必要用这样的方式去检查有没有肺炎",
       "content": "有肺炎的话，你会咳嗽、呼吸急促，甚至喘不过气，很容易就能认得出，必要时还有 CT 识别手段。就算毫无肺炎表现，只要有发热以及相关密切接触史，也得尽快就医，并不是没有肺炎就安全。假如你一切良好，看到这则谣言不由自主做几次深吸气检查也没关系，会稍稍刺激迷走神经，还可能让气道高敏的人忍不住咳几声，这并不会有明显危害，记得别连续深吸气「复查」就行了。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     },
     {
       "title": "保持喉咙湿润可以预防病毒？",
       "subTitle": "剑桥大学病毒学助理研究员韩越：没有研究显示频繁喝水能预防新冠病毒感染",
       "content": "有传言称「即便吸入了病毒，如果喉咙湿润的话，病毒大多会沿食道进入胃部，而不是沿呼吸道进入肺部。胃里有胃酸，能有效杀死病毒，所以要多喝水」其实新冠病毒通过侵染呼吸道黏膜上皮细胞，并在细胞中大量增殖完成侵染，多喝水并不能阻止细胞进入呼吸道。胃酸虽可杀死病毒，但不是全部病毒，新冠病毒存在侵染胃部细胞的可能性。水喝太多可能使体内电解质失衡，对肾脏等器官造成额外负担！",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     },
     {
-      "title": "钟南山：新冠肺炎治愈后会有后遗症？",
+      "title": "钟南山：新冠肺炎治愈也有后遗症？",
       "subTitle": "丁香医生团队查证：钟南山院士没有说过此话",
       "content": "经查证，钟南山院士并没有说过此话。相反，1 月 31 日，钟南山院士在接受北京卫视《养生堂》采访时提到：到现在我没有发现有很明显的后遗症，治愈的可能以后会大量增加。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     },
     {
-      "title": "新冠病毒属于SARS病毒？",
+      "title": "新冠病毒属于 SARS 病毒？",
       "subTitle": "华中农业大学教授陈焕春解释：完全属于口误",
       "content": "9 日，湖北省召开第 19 场疫情防控工作新闻发布会，华中农业大学教授陈焕春介绍，「分析发现，新型冠状病毒属于 SARS 冠状病毒。」新京报记者刚刚向陈焕春核实到，该说法属于口误。他表示，应为「新型冠状病毒属于 SARS 相关冠状病毒」。这意味着「新冠」病毒与 SARS 冠状病毒相似。该结论是基于中科院武汉病毒所石正丽研究员的工作得出的。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     },
     {
-      "title": "别吃鱼，某地有121个鱼塘感染？",
+      "title": "别吃鱼，某地有 121 个鱼塘感染？",
       "subTitle": "丁香医生团队查证：青海、南宁、丽江等各城市版本的均为编造。正规渠道售卖的仍可放心吃",
       "content": "青海、南宁、丽江等各城市版本的均为编造。另外，此次新型冠状病毒来源是非法销售的野生动物，正规渠道售卖的各类肉制品仍可彻底煮熟后食用。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     },
     {
       "title": "洋葱可以预防新冠肺炎？",
       "subTitle": "丁香医生团队辟谣：无论是吃还是闻都不能预防新冠肺炎",
       "content": "目前没有证据证明洋葱有预防新冠肺炎的功效。不过，炒菜吃还是很美味的，闻就算了吧，不嫌辣眼睛和鼻子吗。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     },
     {
-      "title": "新冠肺炎潜伏期最长24天？",
+      "title": "新冠肺炎潜伏期最长 24 天？",
       "subTitle": "钟南山领衔新论文：新冠肺炎的中位潜伏期为 3.0 天，最长可达 24 天",
       "content": "由国家卫健委高级别专家组组长钟南山领衔的「中国 2019 年新型冠状病毒感染的临床特征」研究，在预印本网站 medRxiv 上发表。钟南山等人对 1099 例（截至 1 月 29 日）新冠肺炎确诊患者的临床特征进行了回顾性研究。研究发现，新冠肺炎的中位潜伏期为 3.0 天，最长可达 24 天。丁香医生在此提醒，潜伏期长是个案，要重视，但无需恐慌。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
-    },
-    {
-      "title": "吃果蔬和肉蛋会感染新冠病毒？",
-      "subTitle": "中国疾病预防控制中心研究员冯录召：病毒通过飞沫、直接接触等方式污染到蔬菜、肉和水果的几率很低",
-      "content": "蔬菜、肉、水果买回家后先用流水冲洗。蔬菜、肉类应烧熟吃，水果尽量削皮，处理生食和熟食的切菜板及刀具要分开。病毒在 56℃、30 分钟就能被杀死，炒菜经常能达到 100℃ 以上的高温，炒熟炒透后不用担心病毒。处理过后注意及时洗手。目前新型冠状病毒是否经粪-口途径（消化道）传播，虽尚待进一步明确，但通过将食物洗净煮熟，饭前便后洗手等方法可预防病毒经消化道传播。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
-    },
-    {
-      "title": "口罩里垫一张纸巾，就能反复使用？",
-      "subTitle": "丁香医生团队辟谣：在口罩里垫纸巾不能延长口罩寿命，反而影响使用效果",
-      "content": "在口罩内部垫纸巾不能起到延长口罩寿命的效果，反而会让气体从纸巾旁边通过，影响气密性，导致口罩失效。一般来讲，一次性口罩不建议重复使用，N95 口罩在保存得当的情况下，可以考虑多次使用，但最好不要超过 5 次。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
-    },
-    {
-      "title": "新冠病毒可通过气溶胶传播？",
-      "subTitle": "丁香医生团队：暂不明确。要重视，但不必恐慌",
-      "content": "气溶胶颗粒通常>10微米，一般医用口罩就能阻挡。半径<0.1微米的气溶胶微粒，重量轻，主要在高空，会随风飘走，呼吸到的概率不大。气溶胶质点比表面能很大，又有电荷，病毒很容易被破坏，存活度不高。非医务人员在日常只有达到极高数量级的阈值，部分病毒才能由黏膜进入人体。由气溶胶形式悬停在衣物、皮肤的病毒，只有极微小的比例能通过接触传播。这样的病毒量不太会引发疾病。",
-      "recordAt": "2020-02-12T04:00:04.397Z"
+      "recordAt": "2020-02-12T16:17:05.864Z"
     }
   ],
   "countries": [
     {
       "suspectedCount": 16067,
-      "confirmedCount": 44742,
+      "confirmedCount": 44765,
       "seriousCount": 8204,
-      "curedCount": 4771,
-      "deadCount": 1114,
+      "curedCount": 5066,
+      "deadCount": 1116,
       "suspectedAddCount": 3342,
-      "confirmedAddCount": 2034,
+      "confirmedAddCount": 2057,
       "seriousAddCount": 871,
-      "curedAddCount": 773,
-      "deadAddCount": 97,
+      "curedAddCount": 1068,
+      "deadAddCount": 99,
       "country": "中国",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:42.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 163,
+      "confirmedCount": 203,
       "curedCount": 9,
       "deadCount": 0,
       "country": "日本",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 47,
-      "curedCount": 7,
+      "curedCount": 9,
       "deadCount": 0,
       "country": "新加坡",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 32,
+      "confirmedCount": 33,
       "curedCount": 10,
       "deadCount": 0,
       "country": "泰国",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 28,
-      "curedCount": 3,
+      "curedCount": 4,
       "deadCount": 0,
       "country": "韩国",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -162,34 +162,34 @@
       "deadCount": 0,
       "country": "马来西亚",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 15,
-      "curedCount": 1,
+      "confirmedCount": 16,
+      "curedCount": 0,
       "deadCount": 0,
-      "country": "越南",
-      "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "country": "德国",
+      "continents": "欧洲",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 15,
       "curedCount": 3,
       "deadCount": 0,
-      "country": "澳大利亚",
-      "continents": "大洋洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "country": "越南",
+      "continents": "亚洲",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 14,
-      "curedCount": 0,
+      "confirmedCount": 15,
+      "curedCount": 5,
       "deadCount": 0,
-      "country": "德国",
-      "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "country": "澳大利亚",
+      "continents": "大洋洲",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -198,7 +198,7 @@
       "deadCount": 0,
       "country": "美国",
       "continents": "北美洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -207,7 +207,7 @@
       "deadCount": 0,
       "country": "法国",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -216,7 +216,7 @@
       "deadCount": 0,
       "country": "阿联酋",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -225,7 +225,7 @@
       "deadCount": 0,
       "country": "英国",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -234,7 +234,7 @@
       "deadCount": 0,
       "country": "加拿大",
       "continents": "北美洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -243,7 +243,7 @@
       "deadCount": 0,
       "country": "印度",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -252,16 +252,16 @@
       "deadCount": 0,
       "country": "意大利",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 3,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 1,
       "country": "菲律宾",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -270,7 +270,7 @@
       "deadCount": 0,
       "country": "俄罗斯",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -279,7 +279,7 @@
       "deadCount": 0,
       "country": "西班牙",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -288,16 +288,16 @@
       "deadCount": 0,
       "country": "尼泊尔",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "country": "柬埔寨",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -306,16 +306,16 @@
       "deadCount": 0,
       "country": "斯里兰卡",
       "continents": "亚洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "country": "芬兰",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -324,7 +324,7 @@
       "deadCount": 0,
       "country": "瑞典",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -333,27 +333,27 @@
       "deadCount": 0,
       "country": "比利时",
       "continents": "欧洲",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     }
   ],
   "provinces": [
     {
       "suspectedCount": 0,
       "confirmedCount": 1,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "西藏自治区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 10,
-      "curedCount": 1,
+      "curedCount": 2,
       "deadCount": 0,
       "province": "澳门",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -362,34 +362,34 @@
       "deadCount": 0,
       "province": "台湾",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 18,
-      "curedCount": 5,
+      "curedCount": 9,
       "deadCount": 0,
       "province": "青海省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 49,
-      "curedCount": 0,
+      "confirmedCount": 50,
+      "curedCount": 1,
       "deadCount": 1,
       "province": "香港",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 58,
-      "curedCount": 22,
+      "curedCount": 24,
       "deadCount": 0,
       "province": "宁夏回族自治区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -398,133 +398,133 @@
       "deadCount": 0,
       "province": "新疆维吾尔自治区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 60,
-      "curedCount": 5,
+      "curedCount": 6,
       "deadCount": 0,
       "province": "内蒙古自治区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 83,
-      "curedCount": 18,
+      "curedCount": 22,
       "deadCount": 1,
       "province": "吉林省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 86,
-      "curedCount": 24,
+      "curedCount": 29,
       "deadCount": 2,
       "province": "甘肃省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 107,
-      "curedCount": 10,
+      "confirmedCount": 112,
+      "curedCount": 11,
       "deadCount": 2,
       "province": "天津市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 116,
-      "curedCount": 19,
-      "deadCount": 0,
+      "curedCount": 20,
+      "deadCount": 1,
       "province": "辽宁省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 124,
-      "curedCount": 30,
+      "curedCount": 33,
       "deadCount": 0,
       "province": "山西省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 131,
-      "curedCount": 17,
+      "confirmedCount": 133,
+      "curedCount": 18,
       "deadCount": 1,
       "province": "贵州省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 151,
-      "curedCount": 20,
-      "deadCount": 3,
-      "province": "海南省",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 154,
-      "curedCount": 21,
+      "curedCount": 26,
       "deadCount": 0,
       "province": "云南省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 157,
+      "curedCount": 27,
+      "deadCount": 3,
+      "province": "海南省",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 222,
-      "curedCount": 31,
+      "curedCount": 32,
       "deadCount": 1,
       "province": "广西壮族自治区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 225,
-      "curedCount": 36,
+      "curedCount": 43,
       "deadCount": 0,
       "province": "陕西省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 251,
-      "curedCount": 49,
+      "curedCount": 54,
       "deadCount": 2,
       "province": "河北省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 272,
-      "curedCount": 46,
+      "curedCount": 53,
       "deadCount": 0,
       "province": "福建省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 306,
-      "curedCount": 53,
+      "confirmedCount": 311,
+      "curedCount": 57,
       "deadCount": 1,
       "province": "上海市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -533,52 +533,52 @@
       "deadCount": 3,
       "province": "北京市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 378,
-      "curedCount": 28,
+      "curedCount": 31,
       "deadCount": 8,
       "province": "黑龙江省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 436,
-      "curedCount": 87,
+      "curedCount": 92,
       "deadCount": 1,
       "province": "四川省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 497,
-      "curedCount": 80,
-      "deadCount": 1,
+      "curedCount": 92,
+      "deadCount": 2,
       "province": "山东省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 505,
-      "curedCount": 79,
+      "confirmedCount": 509,
+      "curedCount": 87,
       "deadCount": 3,
       "province": "重庆市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 543,
-      "curedCount": 106,
+      "curedCount": 125,
       "deadCount": 0,
       "province": "江苏省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -587,73 +587,73 @@
       "deadCount": 1,
       "province": "江西省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 889,
-      "curedCount": 117,
+      "curedCount": 127,
       "deadCount": 4,
       "province": "安徽省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 946,
-      "curedCount": 263,
+      "curedCount": 304,
       "deadCount": 2,
       "province": "湖南省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1131,
-      "curedCount": 279,
+      "curedCount": 321,
       "deadCount": 0,
       "province": "浙江省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1135,
-      "curedCount": 233,
+      "curedCount": 246,
       "deadCount": 8,
       "province": "河南省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1219,
-      "curedCount": 241,
+      "curedCount": 275,
       "deadCount": 1,
       "province": "广东省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 33366,
-      "curedCount": 2639,
+      "curedCount": 2686,
       "deadCount": 1068,
       "province": "湖北省",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     }
   ],
   "cities": [
     {
       "suspectedCount": 0,
       "confirmedCount": 19558,
-      "curedCount": 1378,
+      "curedCount": 1380,
       "deadCount": 820,
       "province": "湖北省",
       "city": "武汉",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -663,37 +663,37 @@
       "province": "湖北省",
       "city": "孝感",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 2398,
-      "curedCount": 338,
+      "curedCount": 342,
       "deadCount": 54,
       "province": "湖北省",
       "city": "黄冈",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1129,
-      "curedCount": 51,
+      "curedCount": 56,
       "deadCount": 12,
       "province": "湖北省",
       "city": "随州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1110,
-      "curedCount": 79,
+      "curedCount": 80,
       "deadCount": 21,
       "province": "湖北省",
       "city": "荆州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -703,17 +703,17 @@
       "province": "湖北省",
       "city": "襄阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 874,
-      "curedCount": 96,
+      "curedCount": 101,
       "deadCount": 6,
       "province": "湖北省",
       "city": "黄石",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -723,7 +723,7 @@
       "province": "湖北省",
       "city": "鄂州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -733,37 +733,37 @@
       "province": "湖北省",
       "city": "宜昌",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 696,
-      "curedCount": 81,
+      "curedCount": 84,
       "deadCount": 24,
       "province": "湖北省",
       "city": "荆门",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 536,
-      "curedCount": 70,
+      "curedCount": 79,
       "deadCount": 1,
       "province": "湖北省",
       "city": "十堰",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 525,
-      "curedCount": 65,
+      "curedCount": 76,
       "deadCount": 6,
       "province": "湖北省",
       "city": "咸宁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -773,7 +773,7 @@
       "province": "湖北省",
       "city": "仙桃",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -783,17 +783,17 @@
       "province": "湖北省",
       "city": "天门",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 203,
-      "curedCount": 38,
+      "curedCount": 45,
       "deadCount": 3,
       "province": "湖北省",
       "city": "恩施州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -803,7 +803,7 @@
       "province": "湖北省",
       "city": "潜江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -813,47 +813,47 @@
       "province": "湖北省",
       "city": "神农架林区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 386,
-      "curedCount": 66,
+      "curedCount": 82,
       "deadCount": 0,
       "province": "广东省",
       "city": "深圳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 323,
-      "curedCount": 49,
+      "curedCount": 71,
       "deadCount": 0,
       "province": "广东省",
       "city": "广州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 87,
-      "curedCount": 4,
+      "curedCount": 21,
       "deadCount": 0,
       "province": "广东省",
       "city": "珠海",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 78,
-      "curedCount": 15,
+      "curedCount": 17,
       "deadCount": 0,
       "province": "广东省",
       "city": "佛山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -863,17 +863,17 @@
       "province": "广东省",
       "city": "东莞",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 62,
-      "curedCount": 16,
+      "curedCount": 21,
       "deadCount": 0,
       "province": "广东省",
       "city": "中山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -883,17 +883,17 @@
       "province": "广东省",
       "city": "惠州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 25,
-      "curedCount": 6,
+      "curedCount": 8,
       "deadCount": 0,
       "province": "广东省",
       "city": "汕头",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -903,7 +903,7 @@
       "province": "广东省",
       "city": "湛江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -913,7 +913,7 @@
       "province": "广东省",
       "city": "江门",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -923,27 +923,27 @@
       "province": "广东省",
       "city": "肇庆",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 13,
-      "curedCount": 1,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "广东省",
       "city": "阳江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 13,
-      "curedCount": 4,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "广东省",
       "city": "梅州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -953,7 +953,7 @@
       "province": "广东省",
       "city": "茂名",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -963,7 +963,7 @@
       "province": "广东省",
       "city": "清远",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -973,7 +973,7 @@
       "province": "广东省",
       "city": "揭阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -983,7 +983,7 @@
       "province": "广东省",
       "city": "韶关",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -993,7 +993,7 @@
       "province": "广东省",
       "city": "汕尾",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1003,7 +1003,7 @@
       "province": "广东省",
       "city": "潮州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1013,17 +1013,7 @@
       "province": "广东省",
       "city": "河源",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 0,
-      "curedCount": 35,
-      "deadCount": 0,
-      "province": "广东省",
-      "city": "待明确地区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1033,27 +1023,27 @@
       "province": "河南省",
       "city": "信阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 138,
-      "curedCount": 32,
+      "curedCount": 36,
       "deadCount": 2,
       "province": "河南省",
       "city": "南阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 137,
-      "curedCount": 42,
+      "curedCount": 47,
       "deadCount": 0,
       "province": "河南省",
       "city": "郑州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1063,7 +1053,7 @@
       "province": "河南省",
       "city": "驻马店",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1073,17 +1063,17 @@
       "province": "河南省",
       "city": "商丘",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 66,
-      "curedCount": 17,
+      "curedCount": 20,
       "deadCount": 0,
       "province": "河南省",
       "city": "周口",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1093,7 +1083,7 @@
       "province": "河南省",
       "city": "平顶山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1103,7 +1093,7 @@
       "province": "河南省",
       "city": "新乡",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1113,17 +1103,17 @@
       "province": "河南省",
       "city": "安阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 34,
-      "curedCount": 2,
+      "curedCount": 3,
       "deadCount": 0,
       "province": "河南省",
       "city": "许昌",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1133,27 +1123,27 @@
       "province": "河南省",
       "city": "漯河",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 29,
-      "curedCount": 2,
+      "curedCount": 4,
       "deadCount": 0,
       "province": "河南省",
       "city": "洛阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 28,
-      "curedCount": 3,
+      "curedCount": 5,
       "deadCount": 1,
       "province": "河南省",
       "city": "焦作",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1163,7 +1153,7 @@
       "province": "河南省",
       "city": "开封",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1173,7 +1163,7 @@
       "province": "河南省",
       "city": "鹤壁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1183,7 +1173,7 @@
       "province": "河南省",
       "city": "濮阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1193,7 +1183,7 @@
       "province": "河南省",
       "city": "三门峡",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1203,67 +1193,67 @@
       "province": "河南省",
       "city": "济源",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 0,
-      "curedCount": 4,
+      "curedCount": 0,
       "deadCount": 3,
       "province": "河南省",
       "city": "待明确地区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 481,
-      "curedCount": 107,
+      "curedCount": 120,
       "deadCount": 0,
       "province": "浙江省",
       "city": "温州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 159,
-      "curedCount": 51,
+      "curedCount": 67,
       "deadCount": 0,
       "province": "浙江省",
       "city": "杭州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 153,
-      "curedCount": 24,
+      "curedCount": 25,
       "deadCount": 0,
       "province": "浙江省",
       "city": "宁波",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 143,
-      "curedCount": 38,
+      "curedCount": 46,
       "deadCount": 0,
       "province": "浙江省",
       "city": "台州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 54,
-      "curedCount": 19,
+      "curedCount": 23,
       "deadCount": 0,
       "province": "浙江省",
       "city": "金华",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1273,7 +1263,7 @@
       "province": "浙江省",
       "city": "嘉兴",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1283,7 +1273,7 @@
       "province": "浙江省",
       "city": "绍兴",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1293,7 +1283,7 @@
       "province": "浙江省",
       "city": "衢州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1303,7 +1293,7 @@
       "province": "浙江省",
       "city": "丽水",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1313,7 +1303,7 @@
       "province": "浙江省",
       "city": "舟山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1323,47 +1313,47 @@
       "province": "浙江省",
       "city": "湖州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 223,
-      "curedCount": 48,
+      "curedCount": 56,
       "deadCount": 0,
       "province": "湖南省",
       "city": "长沙",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 146,
-      "curedCount": 24,
+      "curedCount": 42,
       "deadCount": 1,
       "province": "湖南省",
       "city": "岳阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 94,
-      "curedCount": 25,
+      "curedCount": 33,
       "deadCount": 1,
       "province": "湖南省",
       "city": "邵阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 75,
-      "curedCount": 18,
+      "curedCount": 24,
       "deadCount": 0,
       "province": "湖南省",
       "city": "常德",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1373,7 +1363,7 @@
       "province": "湖南省",
       "city": "株洲",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1383,7 +1373,7 @@
       "province": "湖南省",
       "city": "娄底",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1393,7 +1383,7 @@
       "province": "湖南省",
       "city": "益阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1403,7 +1393,7 @@
       "province": "湖南省",
       "city": "衡阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1413,7 +1403,7 @@
       "province": "湖南省",
       "city": "永州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1423,17 +1413,17 @@
       "province": "湖南省",
       "city": "怀化",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 38,
-      "curedCount": 14,
+      "curedCount": 15,
       "deadCount": 0,
       "province": "湖南省",
       "city": "郴州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1443,7 +1433,7 @@
       "province": "湖南省",
       "city": "湘潭",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1453,7 +1443,7 @@
       "province": "湖南省",
       "city": "湘西自治州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1463,17 +1453,17 @@
       "province": "湖南省",
       "city": "张家界",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 157,
-      "curedCount": 22,
+      "curedCount": 28,
       "deadCount": 1,
       "province": "安徽省",
       "city": "合肥",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1483,7 +1473,7 @@
       "province": "安徽省",
       "city": "蚌埠",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1493,7 +1483,7 @@
       "province": "安徽省",
       "city": "阜阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1503,7 +1493,7 @@
       "province": "安徽省",
       "city": "亳州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1513,7 +1503,7 @@
       "province": "安徽省",
       "city": "安庆",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1523,17 +1513,17 @@
       "province": "安徽省",
       "city": "六安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 36,
-      "curedCount": 4,
+      "curedCount": 8,
       "deadCount": 0,
       "province": "安徽省",
       "city": "宿州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1543,7 +1533,7 @@
       "province": "安徽省",
       "city": "马鞍山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1553,7 +1543,7 @@
       "province": "安徽省",
       "city": "芜湖",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1563,7 +1553,7 @@
       "province": "安徽省",
       "city": "铜陵",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1573,7 +1563,7 @@
       "province": "安徽省",
       "city": "淮北",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1583,7 +1573,7 @@
       "province": "安徽省",
       "city": "淮南",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1593,7 +1583,7 @@
       "province": "安徽省",
       "city": "池州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1603,7 +1593,7 @@
       "province": "安徽省",
       "city": "滁州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1613,7 +1603,7 @@
       "province": "安徽省",
       "city": "黄山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1623,7 +1613,7 @@
       "province": "安徽省",
       "city": "宣城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1633,7 +1623,7 @@
       "province": "江西省",
       "city": "南昌",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1643,7 +1633,7 @@
       "province": "江西省",
       "city": "新余",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1653,7 +1643,7 @@
       "province": "江西省",
       "city": "上饶",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1663,7 +1653,7 @@
       "province": "江西省",
       "city": "九江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1673,7 +1663,7 @@
       "province": "江西省",
       "city": "宜春",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1683,7 +1673,7 @@
       "province": "江西省",
       "city": "赣州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1693,7 +1683,7 @@
       "province": "江西省",
       "city": "抚州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1703,7 +1693,7 @@
       "province": "江西省",
       "city": "萍乡",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1713,7 +1703,7 @@
       "province": "江西省",
       "city": "吉安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1723,7 +1713,7 @@
       "province": "江西省",
       "city": "鹰潭",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1733,7 +1723,7 @@
       "province": "江西省",
       "city": "景德镇",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1743,17 +1733,17 @@
       "province": "江西省",
       "city": "赣江新区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 87,
-      "curedCount": 22,
+      "curedCount": 24,
       "deadCount": 0,
       "province": "江苏省",
       "city": "南京",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1763,27 +1753,27 @@
       "province": "江苏省",
       "city": "苏州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 66,
-      "curedCount": 10,
+      "curedCount": 16,
       "deadCount": 0,
       "province": "江苏省",
       "city": "徐州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 48,
-      "curedCount": 4,
+      "curedCount": 9,
       "deadCount": 0,
       "province": "江苏省",
       "city": "无锡",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1793,7 +1783,7 @@
       "province": "江苏省",
       "city": "淮安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1803,7 +1793,7 @@
       "province": "江苏省",
       "city": "连云港",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1813,17 +1803,17 @@
       "province": "江苏省",
       "city": "南通",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 36,
-      "curedCount": 6,
+      "curedCount": 12,
       "deadCount": 0,
       "province": "江苏省",
       "city": "常州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1833,7 +1823,7 @@
       "province": "江苏省",
       "city": "泰州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1843,7 +1833,7 @@
       "province": "江苏省",
       "city": "盐城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1853,7 +1843,7 @@
       "province": "江苏省",
       "city": "扬州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1863,7 +1853,7 @@
       "province": "江苏省",
       "city": "镇江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1873,17 +1863,17 @@
       "province": "江苏省",
       "city": "宿迁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 101,
-      "curedCount": 14,
+      "confirmedCount": 102,
+      "curedCount": 15,
       "deadCount": 1,
       "province": "重庆市",
       "city": "万州区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1893,17 +1883,17 @@
       "province": "重庆市",
       "city": "江北区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 21,
-      "curedCount": 10,
+      "curedCount": 11,
       "deadCount": 0,
       "province": "重庆市",
       "city": "云阳县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1913,7 +1903,7 @@
       "province": "重庆市",
       "city": "九龙坡区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1923,17 +1913,17 @@
       "province": "重庆市",
       "city": "合川区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 20,
-      "curedCount": 10,
+      "curedCount": 11,
       "deadCount": 1,
       "province": "重庆市",
       "city": "开州区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1943,7 +1933,7 @@
       "province": "重庆市",
       "city": "垫江县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1953,17 +1943,27 @@
       "province": "重庆市",
       "city": "渝中区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 19,
-      "curedCount": 6,
+      "curedCount": 7,
       "deadCount": 0,
       "province": "重庆市",
       "city": "忠县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 18,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "重庆市",
+      "city": "綦江区",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1973,7 +1973,7 @@
       "province": "重庆市",
       "city": "奉节县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -1983,27 +1983,17 @@
       "province": "重庆市",
       "city": "长寿区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 16,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "重庆市",
-      "city": "綦江区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 16,
-      "curedCount": 1,
+      "curedCount": 2,
       "deadCount": 0,
       "province": "重庆市",
       "city": "两江新区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2013,7 +2003,7 @@
       "province": "重庆市",
       "city": "渝北区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2023,7 +2013,7 @@
       "province": "重庆市",
       "city": "潼南区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2033,7 +2023,7 @@
       "province": "重庆市",
       "city": "大足区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2043,17 +2033,17 @@
       "province": "重庆市",
       "city": "石柱县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 13,
-      "curedCount": 4,
+      "curedCount": 6,
       "deadCount": 0,
       "province": "重庆市",
       "city": "巫溪县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2063,7 +2053,7 @@
       "province": "重庆市",
       "city": "丰都县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2073,17 +2063,17 @@
       "province": "重庆市",
       "city": "巫山县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 9,
+      "confirmedCount": 10,
       "curedCount": 0,
       "deadCount": 0,
       "province": "重庆市",
       "city": "南岸区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2093,7 +2083,7 @@
       "province": "重庆市",
       "city": "璧山区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2103,7 +2093,7 @@
       "province": "重庆市",
       "city": "铜梁区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2113,7 +2103,7 @@
       "province": "重庆市",
       "city": "荣昌区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2123,7 +2113,7 @@
       "province": "重庆市",
       "city": "沙坪坝区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2133,7 +2123,7 @@
       "province": "重庆市",
       "city": "大渡口区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2143,7 +2133,7 @@
       "province": "重庆市",
       "city": "巴南区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2153,7 +2143,7 @@
       "province": "重庆市",
       "city": "永川区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2163,17 +2153,17 @@
       "province": "重庆市",
       "city": "江津区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 4,
-      "curedCount": 1,
+      "curedCount": 2,
       "deadCount": 0,
       "province": "重庆市",
       "city": "梁平区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2183,7 +2173,7 @@
       "province": "重庆市",
       "city": "高新区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2193,7 +2183,7 @@
       "province": "重庆市",
       "city": "涪陵区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2203,7 +2193,7 @@
       "province": "重庆市",
       "city": "城口县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2213,7 +2203,7 @@
       "province": "重庆市",
       "city": "黔江区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2223,7 +2213,7 @@
       "province": "重庆市",
       "city": "彭水县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2233,7 +2223,7 @@
       "province": "重庆市",
       "city": "秀山县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2243,7 +2233,7 @@
       "province": "重庆市",
       "city": "武隆区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2253,7 +2243,7 @@
       "province": "重庆市",
       "city": "酉阳县",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2263,17 +2253,17 @@
       "province": "重庆市",
       "city": "万盛经开区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 53,
-      "curedCount": 12,
+      "curedCount": 13,
       "deadCount": 1,
       "province": "山东省",
       "city": "青岛",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2283,7 +2273,7 @@
       "province": "山东省",
       "city": "济南",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2293,7 +2283,7 @@
       "province": "山东省",
       "city": "临沂",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2303,77 +2293,77 @@
       "province": "山东省",
       "city": "烟台",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 42,
-      "curedCount": 9,
+      "curedCount": 12,
       "deadCount": 0,
       "province": "山东省",
       "city": "济宁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 38,
-      "curedCount": 8,
+      "curedCount": 9,
       "deadCount": 0,
       "province": "山东省",
       "city": "威海",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 38,
-      "curedCount": 4,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "山东省",
       "city": "潍坊",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 38,
-      "curedCount": 2,
+      "curedCount": 3,
       "deadCount": 0,
       "province": "山东省",
       "city": "聊城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 33,
       "curedCount": 6,
-      "deadCount": 0,
+      "deadCount": 1,
       "province": "山东省",
       "city": "德州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 32,
-      "curedCount": 1,
+      "curedCount": 4,
       "deadCount": 0,
       "province": "山东省",
       "city": "泰安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 23,
-      "curedCount": 3,
+      "curedCount": 4,
       "deadCount": 0,
       "province": "山东省",
       "city": "枣庄",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2383,17 +2373,17 @@
       "province": "山东省",
       "city": "淄博",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 18,
-      "curedCount": 6,
+      "curedCount": 7,
       "deadCount": 0,
       "province": "山东省",
       "city": "菏泽",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2403,7 +2393,7 @@
       "province": "山东省",
       "city": "日照",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2413,7 +2403,7 @@
       "province": "山东省",
       "city": "滨州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2423,27 +2413,27 @@
       "province": "四川省",
       "city": "成都",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 36,
-      "curedCount": 2,
+      "curedCount": 3,
       "deadCount": 0,
       "province": "四川省",
       "city": "甘孜州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 34,
-      "curedCount": 4,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "四川省",
       "city": "南充",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2453,17 +2443,17 @@
       "province": "四川省",
       "city": "达州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 30,
-      "curedCount": 3,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "四川省",
       "city": "广安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2473,7 +2463,7 @@
       "province": "四川省",
       "city": "绵阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2483,17 +2473,17 @@
       "province": "四川省",
       "city": "巴中",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 20,
-      "curedCount": 2,
+      "curedCount": 3,
       "deadCount": 0,
       "province": "四川省",
       "city": "内江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2503,7 +2493,7 @@
       "province": "四川省",
       "city": "泸州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2513,7 +2503,7 @@
       "province": "四川省",
       "city": "德阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2523,7 +2513,7 @@
       "province": "四川省",
       "city": "攀枝花",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2533,7 +2523,7 @@
       "province": "四川省",
       "city": "遂宁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2543,7 +2533,7 @@
       "province": "四川省",
       "city": "宜宾",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2553,7 +2543,7 @@
       "province": "四川省",
       "city": "凉山州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2563,7 +2553,7 @@
       "province": "四川省",
       "city": "自贡",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2573,7 +2563,7 @@
       "province": "四川省",
       "city": "眉山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2583,7 +2573,7 @@
       "province": "四川省",
       "city": "雅安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2593,7 +2583,7 @@
       "province": "四川省",
       "city": "广元",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2603,7 +2593,7 @@
       "province": "四川省",
       "city": "乐山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2613,7 +2603,7 @@
       "province": "四川省",
       "city": "资阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2623,7 +2613,7 @@
       "province": "四川省",
       "city": "阿坝州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2633,7 +2623,7 @@
       "province": "黑龙江省",
       "city": "哈尔滨",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2643,7 +2633,7 @@
       "province": "黑龙江省",
       "city": "绥化",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2653,7 +2643,7 @@
       "province": "黑龙江省",
       "city": "鸡西",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2663,17 +2653,17 @@
       "province": "黑龙江省",
       "city": "双鸭山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 33,
-      "curedCount": 1,
+      "curedCount": 4,
       "deadCount": 1,
       "province": "黑龙江省",
       "city": "齐齐哈尔",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2683,7 +2673,7 @@
       "province": "黑龙江省",
       "city": "大庆",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2693,7 +2683,7 @@
       "province": "黑龙江省",
       "city": "佳木斯",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2703,7 +2693,7 @@
       "province": "黑龙江省",
       "city": "七台河",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2713,7 +2703,7 @@
       "province": "黑龙江省",
       "city": "牡丹江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2723,7 +2713,7 @@
       "province": "黑龙江省",
       "city": "黑河",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2733,7 +2723,7 @@
       "province": "黑龙江省",
       "city": "鹤岗",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2743,7 +2733,7 @@
       "province": "黑龙江省",
       "city": "大兴安岭",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2753,7 +2743,7 @@
       "province": "北京市",
       "city": "朝阳区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2763,7 +2753,7 @@
       "province": "北京市",
       "city": "海淀区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2773,7 +2763,7 @@
       "province": "北京市",
       "city": "西城区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2783,7 +2773,7 @@
       "province": "北京市",
       "city": "大兴区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2793,7 +2783,7 @@
       "province": "北京市",
       "city": "丰台区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2803,7 +2793,7 @@
       "province": "北京市",
       "city": "外地来京人员",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2813,7 +2803,7 @@
       "province": "北京市",
       "city": "昌平区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2823,7 +2813,7 @@
       "province": "北京市",
       "city": "通州区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2833,7 +2823,7 @@
       "province": "北京市",
       "city": "房山区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2843,7 +2833,7 @@
       "province": "北京市",
       "city": "石景山区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2853,7 +2843,7 @@
       "province": "北京市",
       "city": "东城区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2863,7 +2853,7 @@
       "province": "北京市",
       "city": "顺义区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2873,7 +2863,7 @@
       "province": "北京市",
       "city": "怀柔区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2883,7 +2873,7 @@
       "province": "北京市",
       "city": "密云区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2893,7 +2883,7 @@
       "province": "北京市",
       "city": "门头沟区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2903,7 +2893,7 @@
       "province": "北京市",
       "city": "延庆区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2913,7 +2903,7 @@
       "province": "北京市",
       "city": "待明确地区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2923,17 +2913,17 @@
       "province": "上海市",
       "city": "外地来沪人员",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 56,
-      "curedCount": 10,
+      "curedCount": 12,
       "deadCount": 0,
       "province": "上海市",
       "city": "浦东新区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2943,7 +2933,17 @@
       "province": "上海市",
       "city": "宝山区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 18,
+      "curedCount": 3,
+      "deadCount": 0,
+      "province": "上海市",
+      "city": "闵行区",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2951,9 +2951,9 @@
       "curedCount": 2,
       "deadCount": 0,
       "province": "上海市",
-      "city": "闵行区",
+      "city": "徐汇区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2963,17 +2963,7 @@
       "province": "上海市",
       "city": "静安区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 16,
-      "curedCount": 1,
-      "deadCount": 0,
-      "province": "上海市",
-      "city": "徐汇区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2983,7 +2973,7 @@
       "province": "上海市",
       "city": "松江区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -2993,7 +2983,17 @@
       "province": "上海市",
       "city": "长宁区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 11,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "上海市",
+      "city": "普陀区",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3003,7 +3003,7 @@
       "province": "上海市",
       "city": "奉贤区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3013,7 +3013,7 @@
       "province": "上海市",
       "city": "杨浦区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3023,17 +3023,7 @@
       "province": "上海市",
       "city": "嘉定区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 8,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "上海市",
-      "city": "��陀区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3043,7 +3033,7 @@
       "province": "上海市",
       "city": "虹口区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3053,7 +3043,7 @@
       "province": "上海市",
       "city": "黄浦区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3063,7 +3053,7 @@
       "province": "上海市",
       "city": "青浦区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3073,7 +3063,7 @@
       "province": "上海市",
       "city": "金山区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3083,57 +3073,57 @@
       "province": "上海市",
       "city": "崇明区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 64,
-      "curedCount": 13,
+      "curedCount": 15,
       "deadCount": 0,
       "province": "福建省",
       "city": "福州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 52,
-      "curedCount": 6,
+      "curedCount": 8,
       "deadCount": 0,
       "province": "福建省",
       "city": "莆田",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 43,
-      "curedCount": 11,
+      "curedCount": 13,
       "deadCount": 0,
       "province": "福建省",
       "city": "泉州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 32,
-      "curedCount": 3,
+      "curedCount": 4,
       "deadCount": 0,
       "province": "福建省",
       "city": "厦门",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 24,
-      "curedCount": 4,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "福建省",
       "city": "宁德",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3143,7 +3133,7 @@
       "province": "福建省",
       "city": "漳州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3153,7 +3143,7 @@
       "province": "福建省",
       "city": "南平",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3163,7 +3153,7 @@
       "province": "福建省",
       "city": "三明",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3173,17 +3163,7 @@
       "province": "福建省",
       "city": "龙岩",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 0,
-      "curedCount": 1,
-      "deadCount": 0,
-      "province": "福建省",
-      "city": "待明确地区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3193,7 +3173,7 @@
       "province": "河北省",
       "city": "沧州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3203,27 +3183,27 @@
       "province": "河北省",
       "city": "唐山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 31,
-      "curedCount": 9,
+      "curedCount": 11,
       "deadCount": 0,
       "province": "河北省",
       "city": "保定",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 29,
-      "curedCount": 3,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "河北省",
       "city": "邯郸",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3233,7 +3213,7 @@
       "province": "河北省",
       "city": "廊坊",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3243,7 +3223,7 @@
       "province": "河北省",
       "city": "石家庄",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3253,17 +3233,17 @@
       "province": "河北省",
       "city": "邢台",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 21,
-      "curedCount": 2,
+      "curedCount": 3,
       "deadCount": 0,
       "province": "河北省",
       "city": "张家口",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3273,7 +3253,7 @@
       "province": "河北省",
       "city": "秦皇岛",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3283,7 +3263,7 @@
       "province": "河北省",
       "city": "衡水",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3293,17 +3273,17 @@
       "province": "河北省",
       "city": "承德",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 110,
-      "curedCount": 12,
+      "curedCount": 15,
       "deadCount": 0,
       "province": "陕西省",
       "city": "西安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3313,7 +3293,7 @@
       "province": "陕西省",
       "city": "安康",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3323,7 +3303,7 @@
       "province": "陕西省",
       "city": "汉中",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3333,7 +3313,7 @@
       "province": "陕西省",
       "city": "咸阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3343,27 +3323,27 @@
       "province": "陕西省",
       "city": "渭南",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 13,
-      "curedCount": 2,
+      "curedCount": 5,
       "deadCount": 0,
       "province": "陕西省",
       "city": "宝鸡",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 8,
-      "curedCount": 2,
+      "curedCount": 6,
       "deadCount": 0,
       "province": "陕西省",
       "city": "延安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3373,7 +3353,7 @@
       "province": "陕西省",
       "city": "铜川",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3383,7 +3363,7 @@
       "province": "陕西省",
       "city": "商洛",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3393,7 +3373,7 @@
       "province": "陕西省",
       "city": "榆林",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3403,7 +3383,7 @@
       "province": "陕西省",
       "city": "韩城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3413,27 +3393,27 @@
       "province": "陕西省",
       "city": "杨凌",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 0,
-      "curedCount": 4,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "陕西省",
       "city": "待明确地区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 44,
-      "curedCount": 8,
+      "curedCount": 10,
       "deadCount": 0,
       "province": "广西壮族自治区",
       "city": "南宁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3443,7 +3423,7 @@
       "province": "广西壮族自治区",
       "city": "北海",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3453,7 +3433,7 @@
       "province": "广西壮族自治区",
       "city": "桂林",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3463,7 +3443,7 @@
       "province": "广西壮族自治区",
       "city": "柳州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3473,7 +3453,7 @@
       "province": "广西壮族自治区",
       "city": "河池",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3483,7 +3463,7 @@
       "province": "广西壮族自治区",
       "city": "防城港",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3493,7 +3473,7 @@
       "province": "广西壮族自治区",
       "city": "来宾",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3503,7 +3483,7 @@
       "province": "广西壮族自治区",
       "city": "玉林",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3513,7 +3493,7 @@
       "province": "广西壮族自治区",
       "city": "钦州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3523,7 +3503,7 @@
       "province": "广西壮族自治区",
       "city": "贵港",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3533,7 +3513,7 @@
       "province": "广西壮族自治区",
       "city": "梧州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3543,7 +3523,7 @@
       "province": "广西壮族自治区",
       "city": "贺州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3553,197 +3533,47 @@
       "province": "广西壮族自治区",
       "city": "百色",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 0,
-      "curedCount": 1,
-      "deadCount": 0,
-      "province": "广西壮族自治区",
-      "city": "待明确地区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 46,
-      "curedCount": 6,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "昆明",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 15,
-      "curedCount": 2,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "西双版纳",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 14,
-      "curedCount": 3,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "玉溪",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 14,
-      "curedCount": 2,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "昭通",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 13,
-      "curedCount": 1,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "曲靖",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 13,
-      "curedCount": 2,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "大理州",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 9,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "保山",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 7,
-      "curedCount": 2,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "丽江",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 7,
-      "curedCount": 3,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "红河州",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 5,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "德宏州",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 4,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "普洱",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 4,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "楚雄州",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 2,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "文山州",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 1,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "云南省",
-      "city": "临沧",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 46,
+      "confirmedCount": 54,
       "curedCount": 11,
       "deadCount": 1,
       "province": "海南省",
       "city": "三亚",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 29,
-      "curedCount": 5,
+      "curedCount": 10,
       "deadCount": 0,
       "province": "海南省",
       "city": "海口",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 13,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "海南省",
-      "city": "万宁",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 11,
+      "confirmedCount": 15,
       "curedCount": 1,
       "deadCount": 0,
       "province": "海南省",
       "city": "儋州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 13,
+      "curedCount": 1,
+      "deadCount": 0,
+      "province": "海南省",
+      "city": "万宁",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3753,7 +3583,17 @@
       "province": "海南省",
       "city": "澄迈",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 7,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "海南省",
+      "city": "昌江",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3763,7 +3603,7 @@
       "province": "海南省",
       "city": "临高",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3773,17 +3613,7 @@
       "province": "海南省",
       "city": "琼海",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 6,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "海南省",
-      "city": "昌江",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3793,17 +3623,17 @@
       "province": "海南省",
       "city": "陵水",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 3,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "海南省",
       "city": "东方",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3813,7 +3643,7 @@
       "province": "海南省",
       "city": "定安",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3823,7 +3653,7 @@
       "province": "海南省",
       "city": "文昌",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3833,7 +3663,7 @@
       "province": "海南省",
       "city": "保亭",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3843,7 +3673,7 @@
       "province": "海南省",
       "city": "乐东",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3853,27 +3683,167 @@
       "province": "海南省",
       "city": "琼中",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 46,
+      "curedCount": 7,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "昆明",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 15,
+      "curedCount": 2,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "西双版纳",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 14,
+      "curedCount": 3,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "玉溪",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 14,
+      "curedCount": 2,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "昭通",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 13,
+      "curedCount": 1,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "曲靖",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 13,
+      "curedCount": 3,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "大理州",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 9,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "保山",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 7,
-      "curedCount": 0,
+      "curedCount": 2,
       "deadCount": 0,
-      "province": "海南省",
-      "city": "待明确地区",
+      "province": "云南省",
+      "city": "丽江",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 29,
+      "confirmedCount": 7,
+      "curedCount": 3,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "红河州",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 5,
+      "curedCount": 2,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "德宏州",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 4,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "普洱",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 4,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "楚雄州",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 2,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "文山州",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 1,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "临沧",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 0,
+      "curedCount": 1,
+      "deadCount": 0,
+      "province": "云南省",
+      "city": "待明确地区",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 31,
       "curedCount": 3,
       "deadCount": 0,
       "province": "贵州省",
       "city": "贵阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3883,7 +3853,7 @@
       "province": "贵州省",
       "city": "遵义",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3893,7 +3863,7 @@
       "province": "贵州省",
       "city": "毕节",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3903,7 +3873,7 @@
       "province": "贵州省",
       "city": "黔南州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3913,7 +3883,7 @@
       "province": "贵州省",
       "city": "铜仁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3923,17 +3893,17 @@
       "province": "贵州省",
       "city": "六盘水",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 10,
-      "curedCount": 1,
+      "curedCount": 2,
       "deadCount": 0,
       "province": "贵州省",
       "city": "黔东南州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3943,7 +3913,7 @@
       "province": "贵州省",
       "city": "黔西南州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3953,7 +3923,7 @@
       "province": "贵州省",
       "city": "安顺",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3963,17 +3933,17 @@
       "province": "山西省",
       "city": "晋中",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 19,
-      "curedCount": 6,
+      "curedCount": 8,
       "deadCount": 0,
       "province": "山西省",
       "city": "运城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -3983,17 +3953,17 @@
       "province": "山西省",
       "city": "太原",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 11,
-      "curedCount": 3,
+      "curedCount": 4,
       "deadCount": 0,
       "province": "山西省",
       "city": "大同",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4003,7 +3973,7 @@
       "province": "山西省",
       "city": "长治",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4013,7 +3983,7 @@
       "province": "山西省",
       "city": "晋城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4023,7 +3993,7 @@
       "province": "山西省",
       "city": "朔州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4033,7 +4003,7 @@
       "province": "山西省",
       "city": "忻州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4043,7 +4013,7 @@
       "province": "山西省",
       "city": "吕梁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4053,7 +4023,7 @@
       "province": "山西省",
       "city": "阳泉",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4063,7 +4033,7 @@
       "province": "山西省",
       "city": "临汾",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4073,17 +4043,17 @@
       "province": "辽宁省",
       "city": "沈阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 16,
-      "curedCount": 3,
+      "curedCount": 4,
       "deadCount": 0,
       "province": "辽宁省",
       "city": "大连",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4093,17 +4063,17 @@
       "province": "辽宁省",
       "city": "锦州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 11,
       "curedCount": 0,
-      "deadCount": 0,
+      "deadCount": 1,
       "province": "辽宁省",
       "city": "葫芦岛",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4113,7 +4083,7 @@
       "province": "辽宁省",
       "city": "盘锦",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4123,7 +4093,7 @@
       "province": "辽宁省",
       "city": "阜新",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4133,7 +4103,7 @@
       "province": "辽宁省",
       "city": "铁岭",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4143,7 +4113,7 @@
       "province": "辽宁省",
       "city": "丹东",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4153,7 +4123,7 @@
       "province": "辽宁省",
       "city": "朝阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4163,17 +4133,17 @@
       "province": "辽宁省",
       "city": "本溪",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 3,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "辽宁省",
       "city": "辽阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4183,7 +4153,7 @@
       "province": "辽宁省",
       "city": "鞍山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4193,27 +4163,17 @@
       "province": "辽宁省",
       "city": "营口",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 0,
+      "confirmedCount": 43,
       "curedCount": 1,
-      "deadCount": 0,
-      "province": "辽宁省",
-      "city": "待明确地区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 40,
-      "curedCount": 0,
       "deadCount": 1,
       "province": "天津市",
       "city": "宝坻区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4223,17 +4183,17 @@
       "province": "天津市",
       "city": "河东区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
-      "confirmedCount": 11,
+      "confirmedCount": 12,
       "curedCount": 2,
       "deadCount": 0,
       "province": "天津市",
       "city": "河北区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4243,7 +4203,7 @@
       "province": "天津市",
       "city": "和平区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4253,7 +4213,17 @@
       "province": "天津市",
       "city": "外地来津人员",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 5,
+      "curedCount": 0,
+      "deadCount": 0,
+      "province": "天津市",
+      "city": "北辰区",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4263,7 +4233,7 @@
       "province": "天津市",
       "city": "南开区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4273,7 +4243,7 @@
       "province": "天津市",
       "city": "河西区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4283,7 +4253,7 @@
       "province": "天津市",
       "city": "西青区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4293,7 +4263,7 @@
       "province": "天津市",
       "city": "宁河区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4303,17 +4273,7 @@
       "province": "天津市",
       "city": "东丽区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 4,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "天津市",
-      "city": "北辰区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4323,7 +4283,7 @@
       "province": "天津市",
       "city": "滨海新区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4333,7 +4293,7 @@
       "province": "天津市",
       "city": "红桥区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4343,7 +4303,7 @@
       "province": "天津市",
       "city": "津南区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4353,7 +4313,7 @@
       "province": "天津市",
       "city": "武清区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4363,27 +4323,27 @@
       "province": "天津市",
       "city": "待明确地区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 35,
-      "curedCount": 10,
+      "curedCount": 14,
       "deadCount": 2,
       "province": "甘肃省",
       "city": "兰州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 12,
-      "curedCount": 1,
+      "curedCount": 6,
       "deadCount": 0,
       "province": "甘肃省",
       "city": "天水",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4393,17 +4353,17 @@
       "province": "甘肃省",
       "city": "定西",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 8,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "甘肃省",
       "city": "平凉",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4413,7 +4373,7 @@
       "province": "甘肃省",
       "city": "甘南",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4423,7 +4383,7 @@
       "province": "甘肃省",
       "city": "白银",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4433,7 +4393,7 @@
       "province": "甘肃省",
       "city": "陇南",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4443,17 +4403,17 @@
       "province": "甘肃省",
       "city": "临夏",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 3,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "甘肃省",
       "city": "庆阳",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4463,7 +4423,7 @@
       "province": "甘肃省",
       "city": "张掖",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4473,17 +4433,7 @@
       "province": "甘肃省",
       "city": "金昌",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 0,
-      "curedCount": 6,
-      "deadCount": 0,
-      "province": "甘肃省",
-      "city": "待明确地区",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4493,17 +4443,27 @@
       "province": "吉林省",
       "city": "长春",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 12,
-      "curedCount": 1,
+      "curedCount": 2,
       "deadCount": 1,
       "province": "吉林省",
       "city": "四平市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
+    },
+    {
+      "suspectedCount": 0,
+      "confirmedCount": 6,
+      "curedCount": 2,
+      "deadCount": 0,
+      "province": "吉林省",
+      "city": "公主岭",
+      "country": "中国",
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4511,29 +4471,19 @@
       "curedCount": 1,
       "deadCount": 0,
       "province": "吉林省",
-      "city": "公主岭",
-      "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
-    },
-    {
-      "suspectedCount": 0,
-      "confirmedCount": 6,
-      "curedCount": 0,
-      "deadCount": 0,
-      "province": "吉林省",
       "city": "辽源",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 5,
-      "curedCount": 2,
+      "curedCount": 3,
       "deadCount": 0,
       "province": "吉林省",
       "city": "吉林市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4543,7 +4493,7 @@
       "province": "吉林省",
       "city": "延边",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4553,7 +4503,7 @@
       "province": "吉林省",
       "city": "通化",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4563,7 +4513,7 @@
       "province": "吉林省",
       "city": "松原",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4573,7 +4523,7 @@
       "province": "吉林省",
       "city": "梅河口",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4583,7 +4533,7 @@
       "province": "吉林省",
       "city": "白城",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4593,7 +4543,7 @@
       "province": "内蒙古自治区",
       "city": "鄂尔多斯",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4603,7 +4553,7 @@
       "province": "内蒙古自治区",
       "city": "包头",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4613,7 +4563,7 @@
       "province": "内蒙古自治区",
       "city": "呼和浩特",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4623,7 +4573,7 @@
       "province": "内蒙古自治区",
       "city": "呼伦贝尔",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4633,7 +4583,7 @@
       "province": "内蒙古自治区",
       "city": "通辽",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4643,17 +4593,17 @@
       "province": "内蒙古自治区",
       "city": "巴彦淖尔",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 5,
-      "curedCount": 1,
+      "curedCount": 2,
       "deadCount": 0,
       "province": "内蒙古自治区",
       "city": "赤峰",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4663,7 +4613,7 @@
       "province": "内蒙古自治区",
       "city": "乌兰察布",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4673,7 +4623,7 @@
       "province": "内蒙古自治区",
       "city": "锡林郭勒盟",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4683,7 +4633,7 @@
       "province": "内蒙古自治区",
       "city": "乌海市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4693,7 +4643,7 @@
       "province": "内蒙古自治区",
       "city": "兴安盟",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4703,7 +4653,7 @@
       "province": "新疆维吾尔自治区",
       "city": "乌鲁木齐",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4713,7 +4663,7 @@
       "province": "新疆维吾尔自治区",
       "city": "伊犁州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4723,7 +4673,7 @@
       "province": "新疆维吾尔自治区",
       "city": "兵团第四师",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4733,7 +4683,7 @@
       "province": "新疆维吾尔自治区",
       "city": "兵团第九师",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4743,7 +4693,7 @@
       "province": "新疆维吾尔自治区",
       "city": "昌吉州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4753,7 +4703,7 @@
       "province": "新疆维吾尔自治区",
       "city": "巴州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4763,7 +4713,7 @@
       "province": "新疆维吾尔自治区",
       "city": "兵团第八师石河子市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4773,7 +4723,7 @@
       "province": "新疆维吾尔自治区",
       "city": "吐鲁番市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4783,7 +4733,7 @@
       "province": "新疆维吾尔自治区",
       "city": "兵团第七师",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4793,7 +4743,7 @@
       "province": "新疆维吾尔自治区",
       "city": "阿克苏地区",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4801,9 +4751,9 @@
       "curedCount": 0,
       "deadCount": 0,
       "province": "新疆维吾尔自治区",
-      "city": "兵团第六师五家渠市",
+      "city": "兵团第��师五家渠市",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4813,17 +4763,17 @@
       "province": "新疆维吾尔自治区",
       "city": "兵团第十二师",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 31,
-      "curedCount": 11,
+      "curedCount": 12,
       "deadCount": 0,
       "province": "宁夏回族自治区",
       "city": "银川",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4833,7 +4783,7 @@
       "province": "宁夏回族自治区",
       "city": "吴忠",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4843,7 +4793,7 @@
       "province": "宁夏回族自治区",
       "city": "中卫",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4853,7 +4803,7 @@
       "province": "宁夏回族自治区",
       "city": "固原",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
@@ -4863,47 +4813,47 @@
       "province": "宁夏回族自治区",
       "city": "宁东",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "宁夏回族自治区",
       "city": "石嘴山",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 15,
-      "curedCount": 5,
+      "curedCount": 8,
       "deadCount": 0,
       "province": "青海省",
       "city": "西宁",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 3,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "青海省",
       "city": "海北州",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     },
     {
       "suspectedCount": 0,
       "confirmedCount": 1,
-      "curedCount": 0,
+      "curedCount": 1,
       "deadCount": 0,
       "province": "西藏自治区",
       "city": "拉萨",
       "country": "中国",
-      "recordAt": "2020-02-12T03:48:07.000Z"
+      "recordAt": "2020-02-12T14:54:41.000Z"
     }
   ]
 }

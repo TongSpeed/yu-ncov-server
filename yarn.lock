@@ -6452,10 +6452,10 @@ yn@3.1.1, yn@^3.0.0:
   resolved "https://registry.npm.taobao.org/yn/download/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha1-HodAGgnXZ8HV6rJqbkwYUYLS61A=
 
-yu-ncov-scrape-dxy@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.npmjs.org/yu-ncov-scrape-dxy/-/yu-ncov-scrape-dxy-0.2.4.tgz#7f1fcdefd4f8a77fbcdaf3f0097db4ef1ad12ea6"
-  integrity sha512-KkJTfXA95U31MlUXNJTqz39qUoVV2bekNF1BrMsBuUpZepQohUYf4i1GxyyVxktHB330RfSPbvgntGOXQUDtnQ==
+yu-ncov-scrape-dxy@^0.2.5:
+  version "0.2.5"
+  resolved "https://registry.npm.taobao.org/yu-ncov-scrape-dxy/download/yu-ncov-scrape-dxy-0.2.5.tgz?cache=0&sync_timestamp=1581578672601&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fyu-ncov-scrape-dxy%2Fdownload%2Fyu-ncov-scrape-dxy-0.2.5.tgz#40e8460d35b98f27fe32510b7834b57d69ec4460"
+  integrity sha1-QOhGDTW5jyf+MlELeDS1fWnsRGA=
   dependencies:
     fp-ts "^2.4.4"
     jest "^25.1.0"

@@ -9,13 +9,11 @@
     "build": "tsc",
     "generate": "npm -s run generate:prisma && npm -s run generate:nexus",
     "generate:prisma": "prisma2 generate",
-    "generate:nexus": "ts-node --transpile-only server/schema",
+    "generate:nexus": "ts-node --transpile-only src/schema",
     "postinstall": "npm -s run generate",
     "dxy": "ts-node ./server/data/bin.ts",
-    "update": "ts-node ./server/data/updateAll.ts",
-    "i": "ts-node ./server/data/importRumors.ts",
-    "now": "now",
-    "migrate": "npm -s run migrate:create && npm -s run migrate:save",
+    "introspect": "prisma2 introspect && npm -s run generate",
+    "migrate": "npm -s run migrate:create && npm -s run generate",
     "migrate:create": "prisma2 migrate save --name 'add-comment-model' --experimental",
     "migrate:save": " prisma2 migrate up --experimental",
     "dev": "ts-node-dev --no-notify --respawn --transpileOnly server/server"
@@ -50,7 +48,7 @@
     "ts-node": "8.5.4",
     "ts-node-dev": "1.0.0-pre.44",
     "typescript": "3.7.5",
-    "yu-ncov-scrape-dxy": "^0.2.4"
+    "yu-ncov-scrape-dxy": "^0.2.5"
   },
   "prettier": {
     "singleQuote": true,
